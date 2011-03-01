@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15674/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/magnet
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15669/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/magnet/Handler.java
+END
+MagnetConnection2.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/15674/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/magnet/MagnetConnection2.java
+END
+MagnetConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/15670/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/magnet/MagnetConnection.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/12548/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png
+END
+IHDRChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/12548/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/IHDRChunk.java
+END
+IDATChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/12548/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/IDATChunk.java
+END
+PngSignatureChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/12546/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/PngSignatureChunk.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/12546/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/Chunk.java
+END
+IENDChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/12546/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/IENDChunk.java
+END
+CRCedChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/12546/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/CRCedChunk.java
+END
+PNG.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/12548/client/trunk/azureus2/src/com/aelitis/azureus/core/util/png/PNG.java
+END

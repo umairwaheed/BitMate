@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/13399/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent
+END
+TorrentCreatorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/9385/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentCreatorListener.java
+END
+Torrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/12303/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/Torrent.java
+END
+TorrentAnnounceURLListSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/2382/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentAnnounceURLListSet.java
+END
+TorrentAttributeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentAttributeEvent.java
+END
+TorrentAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/9938/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentAttribute.java
+END
+TorrentEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentEncodingException.java
+END
+TorrentFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/1589/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentFile.java
+END
+TorrentDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/4184/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentDownloader.java
+END
+TorrentAttributeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentAttributeListener.java
+END
+TorrentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentException.java
+END
+TorrentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13399/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentManager.java
+END
+TorrentManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentManagerEvent.java
+END
+TorrentCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/9370/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentCreator.java
+END
+TorrentAnnounceURLList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/2386/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentAnnounceURLList.java
+END
+TorrentManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/torrent/TorrentManagerListener.java
+END

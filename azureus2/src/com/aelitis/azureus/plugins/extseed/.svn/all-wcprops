@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/25662/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed
+END
+ExternalSeedPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15728/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedPlugin.java
+END
+ExternalSeedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15696/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedReader.java
+END
+ExternalSeedPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25662/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedPeer.java
+END
+ExternalSeedReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8882/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedReaderFactory.java
+END
+ExternalSeedManualPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/12609/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedManualPeer.java
+END
+ExternalSeedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedException.java
+END
+ExternalSeedReaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/ExternalSeedReaderListener.java
+END

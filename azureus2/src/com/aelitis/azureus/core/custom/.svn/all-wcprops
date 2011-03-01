@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/14522/client/trunk/azureus2/src/com/aelitis/azureus/core/custom
+END
+CustomizationManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14155/client/trunk/azureus2/src/com/aelitis/azureus/core/custom/CustomizationManagerFactory.java
+END
+CustomizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14155/client/trunk/azureus2/src/com/aelitis/azureus/core/custom/CustomizationException.java
+END
+CustomizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/14084/client/trunk/azureus2/src/com/aelitis/azureus/core/custom/CustomizationManager.java
+END
+Customization.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/14522/client/trunk/azureus2/src/com/aelitis/azureus/core/custom/Customization.java
+END

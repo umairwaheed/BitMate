@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/openssl
+END
+PEMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/openssl/PEMReader.java
+END
+PEMWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/openssl/PEMWriter.java
+END
+PEMUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/openssl/PEMUtilities.java
+END
+PasswordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/openssl/PasswordFinder.java
+END

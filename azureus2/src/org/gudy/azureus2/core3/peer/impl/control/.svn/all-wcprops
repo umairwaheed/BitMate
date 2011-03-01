@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/25761/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/control
+END
+SuperSeedPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/1619/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/control/SuperSeedPeer.java
+END
+PEPeerControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25761/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/control/PEPeerControlImpl.java
+END
+SuperSeedPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25601/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/control/SuperSeedPiece.java
+END

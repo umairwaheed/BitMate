@@ -1,0 +1,83 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems
+http://svn.vuze.com/public
+
+
+
+2010-09-14T18:14:10.687738Z
+25665
+amogge
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+ColumnDateSizer.java
+file
+
+
+
+
+2010-12-17T13:09:44.000000Z
+f9a79fbd4b4773a8cf07ca0b4e1f1844
+2010-07-12T06:18:05.448939Z
+25219
+amogge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7407
+
+files
+dir
+
+myshares
+dir
+
+mytorrents
+dir
+
+mytracker
+dir
+
+peers
+dir
+
+pieces
+dir
+
+tracker
+dir
+

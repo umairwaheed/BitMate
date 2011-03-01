@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/26053/client/trunk/azureus2/src/org/gudy/azureus2/ui/common/util
+END
+MenuItemManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/26053/client/trunk/azureus2/src/org/gudy/azureus2/ui/common/util/MenuItemManagerListener.java
+END
+MenuItemManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/26053/client/trunk/azureus2/src/org/gudy/azureus2/ui/common/util/MenuItemManager.java
+END
+LegacyHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/ui/common/util/LegacyHashtable.java
+END
+UserAlerts.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/15806/client/trunk/azureus2/src/org/gudy/azureus2/ui/common/util/UserAlerts.java
+END

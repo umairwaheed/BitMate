@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509
+END
+X509V2AttributeCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509/X509V2AttributeCertificate.java
+END
+X509Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509/X509Util.java
+END
+AttributeCertificateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509/AttributeCertificateHolder.java
+END
+X509Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509/X509Attribute.java
+END
+AttributeCertificateIssuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509/AttributeCertificateIssuer.java
+END
+X509AttributeCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/x509/X509AttributeCertificate.java
+END

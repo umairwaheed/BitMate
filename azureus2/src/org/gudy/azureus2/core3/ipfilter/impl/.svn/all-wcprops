@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/16083/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl
+END
+IpFilterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/16083/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/IpFilterImpl.java
+END
+IpFilterManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/12307/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/IpFilterManagerImpl.java
+END
+IPAddressRangeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14474/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/IPAddressRangeManager.java
+END
+BadIpImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/BadIpImpl.java
+END
+BadIpsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/4448/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/BadIpsImpl.java
+END
+IpRangeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/11066/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/IpRangeImpl.java
+END
+BannedIpImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/BannedIpImpl.java
+END
+BlockedIpImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/6826/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/BlockedIpImpl.java
+END
+IpFilterAutoLoaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/11065/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipfilter/impl/IpFilterAutoLoaderImpl.java
+END

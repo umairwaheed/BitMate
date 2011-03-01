@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/crypto/generators
+END
+KDF2BytesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/12890/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/KDF2BytesGenerator.java
+END
+MGF1BytesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/MGF1BytesGenerator.java
+END
+DSAKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DSAKeyPairGenerator.java
+END
+DESedeKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DESedeKeyGenerator.java
+END
+DESKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DESKeyGenerator.java
+END
+DHParametersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DHParametersGenerator.java
+END
+BaseKDFBytesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/12890/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/BaseKDFBytesGenerator.java
+END
+DHBasicKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DHBasicKeyPairGenerator.java
+END
+PKCS5S1ParametersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/PKCS5S1ParametersGenerator.java
+END
+DHKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DHKeyPairGenerator.java
+END
+PKCS12ParametersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/PKCS12ParametersGenerator.java
+END
+RSAKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/RSAKeyPairGenerator.java
+END
+OpenSSLPBEParametersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/OpenSSLPBEParametersGenerator.java
+END
+ECKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/ECKeyPairGenerator.java
+END
+DSAParametersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/DSAParametersGenerator.java
+END
+ElGamalParametersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/ElGamalParametersGenerator.java
+END
+ElGamalKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/generators/ElGamalKeyPairGenerator.java
+END

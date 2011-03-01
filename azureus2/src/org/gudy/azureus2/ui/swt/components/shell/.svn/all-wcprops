@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/25081/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/shell
+END
+ShellManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/9431/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/shell/ShellManager.java
+END
+ShellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25081/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/shell/ShellFactory.java
+END

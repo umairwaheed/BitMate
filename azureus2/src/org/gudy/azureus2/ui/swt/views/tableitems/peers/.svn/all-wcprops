@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25662/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers
+END
+DiscardedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/DiscardedItem.java
+END
+PeerIDItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PeerIDItem.java
+END
+ProtocolItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25662/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ProtocolItem.java
+END
+DLedFromOthersItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/DLedFromOthersItem.java
+END
+DownloadNameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/DownloadNameItem.java
+END
+ASItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ASItem.java
+END
+UpSpeedLimitItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/UpSpeedLimitItem.java
+END
+OutgoingRequestCountItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/OutgoingRequestCountItem.java
+END
+IpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/IpItem.java
+END
+IncomingRequestCountItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/IncomingRequestCountItem.java
+END
+PeerByteIDItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PeerByteIDItem.java
+END
+MessagingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/MessagingItem.java
+END
+TotalDownSpeedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/TotalDownSpeedItem.java
+END
+TimeToSendPieceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/TimeToSendPieceItem.java
+END
+PeerSourceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PeerSourceItem.java
+END
+UniquePieceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/UniquePieceItem.java
+END
+UpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/UpItem.java
+END
+TypeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/TypeItem.java
+END
+SnubbedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/SnubbedItem.java
+END
+LANItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/LANItem.java
+END
+ClientIdentificationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ClientIdentificationItem.java
+END
+InterestingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/InterestingItem.java
+END
+ConnectedTimeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ConnectedTimeItem.java
+END
+DownSpeedLimitItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/DownSpeedLimitItem.java
+END
+HostNameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/HostNameItem.java
+END
+StateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/StateItem.java
+END
+UpRatioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/15043/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/UpRatioItem.java
+END
+StatUpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/StatUpItem.java
+END
+PieceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PieceItem.java
+END
+UpDownRatioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/15043/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/UpDownRatioItem.java
+END
+UpSpeedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/UpSpeedItem.java
+END
+HandshakeReservedBytesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/HandshakeReservedBytesItem.java
+END
+ClientItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ClientItem.java
+END
+TimeUntilCompleteItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/TimeUntilCompleteItem.java
+END
+InterestedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/InterestedItem.java
+END
+DownSpeedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/DownSpeedItem.java
+END
+PercentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PercentItem.java
+END
+PiecesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14752/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PiecesItem.java
+END
+EncryptionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25662/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/EncryptionItem.java
+END
+DownItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/DownItem.java
+END
+ChokingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ChokingItem.java
+END
+PortItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/PortItem.java
+END
+ChokedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15723/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/ChokedItem.java
+END
+GainItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/GainItem.java
+END
+OptimisticUnchokeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/peers/OptimisticUnchokeItem.java
+END

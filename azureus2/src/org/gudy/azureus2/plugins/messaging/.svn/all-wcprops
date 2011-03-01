@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/25137/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging
+END
+MessageStreamDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/MessageStreamDecoder.java
+END
+MessageManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/MessageManagerListener.java
+END
+MessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/MessageException.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/Message.java
+END
+MessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/9068/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/MessageManager.java
+END
+MessageStreamEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/MessageStreamEncoder.java
+END

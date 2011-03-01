@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/13630/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/security
+END
+SESTSConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/13630/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/security/SESTSConnectionImpl.java
+END
+SESecurityManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/10309/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/security/SESecurityManagerImpl.java
+END
+SEPublicKeyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/12857/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/security/SEPublicKeyImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/13086/client/trunk/azureus2/src/org/gudy/azureus2/plugins/config
+END
+PluginConfigSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13086/client/trunk/azureus2/src/org/gudy/azureus2/plugins/config/PluginConfigSource.java
+END
+ConfigParameterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/config/ConfigParameterListener.java
+END
+ConfigParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/config/ConfigParameter.java
+END

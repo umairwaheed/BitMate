@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/26134/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/views
+END
+ViewDownSpeedGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/19951/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/views/ViewDownSpeedGraph.java
+END
+ViewUpSpeedGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/19951/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/views/ViewUpSpeedGraph.java
+END
+PieceGraphView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25303/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/views/PieceGraphView.java
+END
+TopBarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/19944/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/views/TopBarView.java
+END

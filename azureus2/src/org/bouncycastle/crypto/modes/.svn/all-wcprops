@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes
+END
+OFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/OFBBlockCipher.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/package.html
+END
+SICBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/SICBlockCipher.java
+END
+CFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/CFBBlockCipher.java
+END
+PaddedBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/PaddedBlockCipher.java
+END
+OpenPGPCFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/OpenPGPCFBBlockCipher.java
+END
+CTSBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/CTSBlockCipher.java
+END
+CBCBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/CBCBlockCipher.java
+END
+PGPCFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/modes/PGPCFBBlockCipher.java
+END

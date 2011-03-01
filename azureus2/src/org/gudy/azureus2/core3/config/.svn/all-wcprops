@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/25989/client/trunk/azureus2/src/org/gudy/azureus2/core3/config
+END
+StringIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/StringIterator.java
+END
+StringList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13394/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/StringList.java
+END
+COConfigurationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/762/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/COConfigurationListener.java
+END
+ParameterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/ParameterListener.java
+END
+PriorityParameterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15897/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/PriorityParameterListener.java
+END
+COConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/24706/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/COConfigurationManager.java
+END

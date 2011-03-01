@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/24881/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp
+END
+PRUDPPacketReplyAnnounce.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketReplyAnnounce.java
+END
+PRUDPPacketRequestScrape.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/24880/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketRequestScrape.java
+END
+PRUDPPacketReplyScrape2.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketReplyScrape2.java
+END
+PRUDPPacketReplyConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketReplyConnect.java
+END
+PRUDPPacketReplyScrape.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketReplyScrape.java
+END
+PRUDPPacketReplyAnnounce2.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketReplyAnnounce2.java
+END
+PRUDPTrackerCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13687/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPTrackerCodecs.java
+END
+PRUDPPacketReplyError.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketReplyError.java
+END
+PRUDPPacketRequestConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/7837/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketRequestConnect.java
+END
+PRUDPPacketRequestAnnounce.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/24881/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketRequestAnnounce.java
+END
+PRUDPPacketRequestAnnounce2.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/24881/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketRequestAnnounce2.java
+END
+PRUDPPacketTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/10037/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/protocol/udp/PRUDPPacketTracker.java
+END

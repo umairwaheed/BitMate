@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15311/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt
+END
+ConfigSectionSeedingIgnore.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/public/!svn/ver/15311/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt/ConfigSectionSeedingIgnore.java
+END
+ConfigSectionQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/!svn/ver/15311/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt/ConfigSectionQueue.java
+END
+ConfigSectionSeeding.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/public/!svn/ver/15311/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt/ConfigSectionSeeding.java
+END
+ConfigSectionSeedingAutoStarting.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/public/!svn/ver/15311/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt/ConfigSectionSeedingAutoStarting.java
+END
+ConfigSectionSeedingFirstPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/public/!svn/ver/15229/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt/ConfigSectionSeedingFirstPriority.java
+END
+StartStopRulesDefaultPluginSWTUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/public/!svn/ver/10542/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/ui/swt/StartStopRulesDefaultPluginSWTUI.java
+END

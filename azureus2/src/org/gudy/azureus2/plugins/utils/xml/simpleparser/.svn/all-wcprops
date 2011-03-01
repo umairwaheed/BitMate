@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/14123/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/simpleparser
+END
+SimpleXMLParserDocumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/simpleparser/SimpleXMLParserDocumentException.java
+END
+SimpleXMLParserDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/simpleparser/SimpleXMLParserDocument.java
+END
+SimpleXMLParserDocumentAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/simpleparser/SimpleXMLParserDocumentAttribute.java
+END
+SimpleXMLParserDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/simpleparser/SimpleXMLParserDocumentFactory.java
+END
+SimpleXMLParserDocumentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/14123/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/simpleparser/SimpleXMLParserDocumentNode.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/20810/client/trunk/uis/src/org/gudy/azureus2/ui/common
+END
+UIConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/20810/client/trunk/uis/src/org/gudy/azureus2/ui/common/UIConst.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/20810/client/trunk/uis/src/org/gudy/azureus2/ui/common/Main.java
+END
+UITemplateHeadless.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/20665/client/trunk/uis/src/org/gudy/azureus2/ui/common/UITemplateHeadless.java
+END
+StartServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/20793/client/trunk/uis/src/org/gudy/azureus2/ui/common/StartServer.java
+END
+ExternalUIConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/20796/client/trunk/uis/src/org/gudy/azureus2/ui/common/ExternalUIConst.java
+END

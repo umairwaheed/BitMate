@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25872/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp
+END
+ProxyLoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/10173/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/ProxyLoginHandler.java
+END
+TCPConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/15706/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/TCPConnectionManager.java
+END
+TCPTransportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25872/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/TCPTransportImpl.java
+END
+VirtualNonBlockingServerChannelSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/public/!svn/ver/9053/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/VirtualNonBlockingServerChannelSelector.java
+END
+SelectorGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/11731/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/SelectorGuard.java
+END
+IncomingSocketChannelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/IncomingSocketChannelManager.java
+END
+TransportEndpointTCP.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/9075/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/TransportEndpointTCP.java
+END
+TCPNetworkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25862/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/TCPNetworkManager.java
+END
+VirtualBlockingServerChannelSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/public/!svn/ver/9053/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/VirtualBlockingServerChannelSelector.java
+END
+TCPTransportHelperFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/9075/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/TCPTransportHelperFilterFactory.java
+END
+VirtualChannelSelectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/24588/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/VirtualChannelSelectorImpl.java
+END
+LightweightTCPTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/25662/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/LightweightTCPTransport.java
+END
+TCPTransportHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25625/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/TCPTransportHelper.java
+END
+ProtocolEndpointTCP.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/ProtocolEndpointTCP.java
+END
+VirtualAcceptSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/9833/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/tcp/VirtualAcceptSelector.java
+END

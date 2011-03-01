@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/24719/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics
+END
+ScaledGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13688/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/ScaledGraphic.java
+END
+Scale.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8925/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/Scale.java
+END
+BackGroundGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/13711/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/BackGroundGraphic.java
+END
+Graphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/1656/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/Graphic.java
+END
+PingGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/13688/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/PingGraphic.java
+END
+ValueFormater.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/1656/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/ValueFormater.java
+END
+PieUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/13688/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/PieUtils.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/Test.java
+END
+Plot3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/12675/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/Plot3D.java
+END
+SpeedGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/24719/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/graphics/SpeedGraphic.java
+END

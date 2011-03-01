@@ -1,0 +1,34 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker
+http://svn.vuze.com/public
+
+
+
+2010-12-13T19:14:56.106611Z
+26141
+pgardner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+extipchecker
+dir
+
+natchecker
+dir
+

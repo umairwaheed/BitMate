@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25856/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging
+END
+GenericMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/10617/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessage.java
+END
+GenericMessageConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/13630/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageConnectionImpl.java
+END
+GenericMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/10528/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageEncoder.java
+END
+GenericMessageConnectionIndirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/14585/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageConnectionIndirect.java
+END
+MessageStreamEncoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/10528/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/MessageStreamEncoderAdapter.java
+END
+MessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/14504/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/MessageAdapter.java
+END
+GenericMessageConnectionDirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/25590/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageConnectionDirect.java
+END
+MessageManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/25590/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/MessageManagerImpl.java
+END
+GenericMessageEndpointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/25856/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageEndpointImpl.java
+END
+GenericMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/12939/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageDecoder.java
+END
+MessageStreamDecoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/9051/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/MessageStreamDecoderAdapter.java
+END
+GenericMessageConnectionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/13630/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/messaging/GenericMessageConnectionAdapter.java
+END

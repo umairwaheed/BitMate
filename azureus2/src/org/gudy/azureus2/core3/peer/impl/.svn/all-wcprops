@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25856/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl
+END
+PEPeerTransportExtensionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/1685/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerTransportExtensionHandler.java
+END
+PEPeerManagerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25198/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerManagerStatsImpl.java
+END
+PEPieceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/10831/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPieceImpl.java
+END
+PEPeerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25196/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerStatsImpl.java
+END
+PEPeerTransportFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/11963/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerTransportFactory.java
+END
+PEPeerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/24599/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerControl.java
+END
+PEPieceWriteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8063/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPieceWriteImpl.java
+END
+PEPeerControlFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14957/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerControlFactory.java
+END
+PEPeerTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/24599/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/impl/PEPeerTransport.java
+END

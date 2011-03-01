@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht
+END
+DHTPluginValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/8789/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginValue.java
+END
+DHTPluginContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/15415/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginContact.java
+END
+DHTPluginTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/9281/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginTransferHandler.java
+END
+DHTPluginOperationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13853/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginOperationListener.java
+END
+DHTPluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/7828/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginListener.java
+END
+DHTPluginProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginProgressListener.java
+END
+DHTPluginKeyStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8935/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPluginKeyStats.java
+END
+DHTPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/15665/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/DHTPlugin.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/20277/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser
+END
+BrowserMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/20277/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser/BrowserMessage.java
+END
+BrowserMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/20277/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser/BrowserMessageDispatcher.java
+END

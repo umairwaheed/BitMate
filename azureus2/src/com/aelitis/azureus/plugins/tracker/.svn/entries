@@ -1,0 +1,37 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/com/aelitis/azureus/plugins/tracker
+http://svn.vuze.com/public
+
+
+
+2010-10-15T16:11:19.022990Z
+25860
+pgardner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+dht
+dir
+
+local
+dir
+
+peerauth
+dir
+

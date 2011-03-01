@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/15240/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/generic
+END
+GenericParameterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/9281/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/generic/GenericParameterAdapter.java
+END
+GenericBooleanParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/11286/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/generic/GenericBooleanParameter.java
+END
+GenericIntParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/15240/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/generic/GenericIntParameter.java
+END

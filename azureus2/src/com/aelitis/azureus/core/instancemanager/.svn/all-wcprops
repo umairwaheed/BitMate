@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager
+END
+AZInstanceManagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/15015/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/AZInstanceManagerAdapter.java
+END
+AZInstanceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/AZInstanceManager.java
+END
+AZInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/AZInstance.java
+END
+AZInstanceTracked.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15014/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/AZInstanceTracked.java
+END
+AZInstanceManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/15014/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/AZInstanceManagerFactory.java
+END
+AZInstanceManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/AZInstanceManagerListener.java
+END

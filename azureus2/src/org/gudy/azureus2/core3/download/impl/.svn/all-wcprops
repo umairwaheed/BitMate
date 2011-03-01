@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/26138/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl
+END
+DownloadManagerMoveHandlerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/13283/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerMoveHandlerUtils.java
+END
+DownloadManagerStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25011/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerStateImpl.java
+END
+DownloadManagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8808/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerAdapter.java
+END
+DownloadManagerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/26124/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerStatsImpl.java
+END
+DownloadManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/26138/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerImpl.java
+END
+DownloadManagerMoveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/16029/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerMoveHandler.java
+END
+DownloadManagerDefaultPaths.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/16029/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerDefaultPaths.java
+END
+DownloadManagerRateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25607/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerRateController.java
+END
+DownloadManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/26128/client/trunk/azureus2/src/org/gudy/azureus2/core3/download/impl/DownloadManagerController.java
+END

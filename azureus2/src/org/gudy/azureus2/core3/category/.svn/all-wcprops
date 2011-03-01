@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/24581/client/trunk/azureus2/src/org/gudy/azureus2/core3/category
+END
+CategoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/2219/client/trunk/azureus2/src/org/gudy/azureus2/core3/category/CategoryManager.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/24579/client/trunk/azureus2/src/org/gudy/azureus2/core3/category/Category.java
+END
+CategoryManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/24581/client/trunk/azureus2/src/org/gudy/azureus2/core3/category/CategoryManagerListener.java
+END
+CategoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/2144/client/trunk/azureus2/src/org/gudy/azureus2/core3/category/CategoryListener.java
+END

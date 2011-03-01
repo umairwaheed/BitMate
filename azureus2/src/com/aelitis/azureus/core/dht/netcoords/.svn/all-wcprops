@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/25360/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords
+END
+DHTNetworkPositionProviderInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/8868/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords/DHTNetworkPositionProviderInstance.java
+END
+DHTNetworkPositionProviderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords/DHTNetworkPositionProviderListener.java
+END
+DHTNetworkPositionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/13687/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords/DHTNetworkPositionListener.java
+END
+DHTNetworkPositionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/10204/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords/DHTNetworkPositionProvider.java
+END
+DHTNetworkPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/13490/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords/DHTNetworkPosition.java
+END
+DHTNetworkPositionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/25360/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/netcoords/DHTNetworkPositionManager.java
+END

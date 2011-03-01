@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/!svn/ver/10303/client/trunk/azureus2/src/org/bouncycastle/jce
+END
+PrincipalUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/PrincipalUtil.java
+END
+X509V3CertificateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/X509V3CertificateGenerator.java
+END
+PKCS10CertificationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/PKCS10CertificationRequest.java
+END
+X509V1CertificateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/X509V1CertificateGenerator.java
+END
+ECNamedCurveTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/jce/ECNamedCurveTable.java
+END
+X509KeyUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/X509KeyUsage.java
+END
+X509V2CRLGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/X509V2CRLGenerator.java
+END
+X509Principal.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/X509Principal.java
+END
+PKCS7SignedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/7661/client/trunk/azureus2/src/org/bouncycastle/jce/PKCS7SignedData.java
+END

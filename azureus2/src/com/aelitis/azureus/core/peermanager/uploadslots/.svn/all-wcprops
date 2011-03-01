@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/15186/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots
+END
+UploadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14684/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/UploadHelper.java
+END
+UploadSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/9365/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/UploadSlot.java
+END
+UploadSlotManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14957/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/UploadSlotManager.java
+END
+SeedingRanker.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/9461/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/SeedingRanker.java
+END
+UploadSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/15186/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/UploadSession.java
+END
+UploadSessionPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/15186/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/UploadSessionPicker.java
+END
+DownloadingRanker.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15186/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/uploadslots/DownloadingRanker.java
+END

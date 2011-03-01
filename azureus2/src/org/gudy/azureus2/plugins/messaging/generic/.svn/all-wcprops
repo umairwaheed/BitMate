@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13630/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/generic
+END
+GenericMessageConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/13630/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/generic/GenericMessageConnection.java
+END
+GenericMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/9059/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/generic/GenericMessageHandler.java
+END
+GenericMessageRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/9059/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/generic/GenericMessageRegistration.java
+END
+GenericMessageEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/9086/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/generic/GenericMessageEndpoint.java
+END
+GenericMessageConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/9059/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/generic/GenericMessageConnectionListener.java
+END

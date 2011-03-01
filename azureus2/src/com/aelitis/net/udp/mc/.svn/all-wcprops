@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/24768/client/trunk/azureus2/src/com/aelitis/net/udp/mc
+END
+MCGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/24768/client/trunk/azureus2/src/com/aelitis/net/udp/mc/MCGroup.java
+END
+MCGroupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/net/udp/mc/MCGroupException.java
+END
+MCGroupAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/8773/client/trunk/azureus2/src/com/aelitis/net/udp/mc/MCGroupAdapter.java
+END
+MCGroupFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/8010/client/trunk/azureus2/src/com/aelitis/net/udp/mc/MCGroupFactory.java
+END

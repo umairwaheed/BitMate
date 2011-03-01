@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25111/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats
+END
+ColumnCS_Received.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_Received.java
+END
+ClientStatsOverall.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ClientStatsOverall.java
+END
+ClientStatsDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ClientStatsDataSource.java
+END
+ClientStatsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25111/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ClientStatsView.java
+END
+ColumnCS_Pct.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_Pct.java
+END
+ColumnCS_Count.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_Count.java
+END
+ColumnCS_Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_Name.java
+END
+ColumnCS_Discarded.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_Discarded.java
+END
+ColumnCS_ReceivedPer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/15658/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_ReceivedPer.java
+END
+ColumnCS_Sent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15515/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/clientstats/ColumnCS_Sent.java
+END

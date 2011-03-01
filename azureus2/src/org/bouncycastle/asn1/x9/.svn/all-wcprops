@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/12806/client/trunk/azureus2/src/org/bouncycastle/asn1/x9
+END
+X962NamedCurves.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/8815/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X962NamedCurves.java
+END
+KeySpecificInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/KeySpecificInfo.java
+END
+X9Curve.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9Curve.java
+END
+OtherInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/OtherInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/package.html
+END
+X9ObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9ObjectIdentifiers.java
+END
+X9ECParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9ECParameters.java
+END
+X962Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X962Parameters.java
+END
+X9FieldID.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9FieldID.java
+END
+X9IntegerConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/12806/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9IntegerConverter.java
+END
+X9FieldElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9FieldElement.java
+END
+X9ECPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/asn1/x9/X9ECPoint.java
+END

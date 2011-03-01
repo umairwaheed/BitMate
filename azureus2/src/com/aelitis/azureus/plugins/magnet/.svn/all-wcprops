@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/15777/client/trunk/azureus2/src/com/aelitis/azureus/plugins/magnet
+END
+Magnet.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/6007/client/trunk/azureus2/src/com/aelitis/azureus/plugins/magnet/Magnet.gif
+END
+MagnetPluginProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/15676/client/trunk/azureus2/src/com/aelitis/azureus/plugins/magnet/MagnetPluginProgressListener.java
+END
+MagnetPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15777/client/trunk/azureus2/src/com/aelitis/azureus/plugins/magnet/MagnetPlugin.java
+END
+MagnetPluginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/plugins/magnet/MagnetPluginException.java
+END
+MagnetPluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/12552/client/trunk/azureus2/src/com/aelitis/azureus/plugins/magnet/MagnetPluginListener.java
+END

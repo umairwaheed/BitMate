@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/26137/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt
+END
+BlockedIpsWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/12322/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/BlockedIpsWindow.java
+END
+ITwistieListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/12102/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ITwistieListener.java
+END
+KeyBindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/9390/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/KeyBindings.java
+END
+AZProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/12025/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/AZProgressBar.java
+END
+UISwitcherListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/11803/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/UISwitcherListener.java
+END
+UIConfigDefaultsSWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/25943/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/UIConfigDefaultsSWT.java
+END
+ImageRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/24350/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ImageRepository.java
+END
+StartServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/24987/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/StartServer.java
+END
+PropertiesWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25651/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/PropertiesWindow.java
+END
+SimpleTextEntryWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25700/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/SimpleTextEntryWindow.java
+END
+TwistieSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13485/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/TwistieSection.java
+END
+MenuBuildUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15124/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/MenuBuildUtils.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/24987/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/Main.java
+END
+StartSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/13132/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/StartSocket.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/25861/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/Utils.java
+END
+UIExitUtilsSWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/25716/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/UIExitUtilsSWT.java
+END
+TwistieLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13485/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/TwistieLabel.java
+END
+TextViewerWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25038/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/TextViewerWindow.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/24660/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/Messages.java
+END
+PasswordWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15611/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/PasswordWindow.java
+END
+TrayWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/TrayWindow.java
+END
+CategoryAdderWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/26086/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/CategoryAdderWindow.java
+END
+about.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/25386/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/about.properties
+END
+URLTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/13317/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/URLTransfer.java
+END
+TrackerChangerWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/14866/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/TrackerChangerWindow.java
+END
+UISwitcherUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/UISwitcherUtil.java
+END
+Alerts.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/25052/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/Alerts.java
+END
+OpenTorrentWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25777/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/OpenTorrentWindow.java
+END
+OpenUrlWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/25008/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/OpenUrlWindow.java
+END
+IconBarEnabler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/25210/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/IconBarEnabler.java
+END
+ITwistieConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/12102/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ITwistieConstants.java
+END
+LocaleUtilSWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/9295/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/LocaleUtilSWT.java
+END
+FileDownloadWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25777/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/FileDownloadWindow.java
+END
+TorrentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/25845/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/TorrentUtil.java
+END

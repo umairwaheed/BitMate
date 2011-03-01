@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/15905/client/trunk/azureus2/src/com/aelitis/net/magneturi
+END
+MagnetURIHandlerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/15637/client/trunk/azureus2/src/com/aelitis/net/magneturi/MagnetURIHandlerListener.java
+END
+MagnetURIHandlerProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15676/client/trunk/azureus2/src/com/aelitis/net/magneturi/MagnetURIHandlerProgressListener.java
+END
+MagnetURIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/15669/client/trunk/azureus2/src/com/aelitis/net/magneturi/MagnetURIHandler.java
+END
+MagnetURIHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/net/magneturi/MagnetURIHandlerException.java
+END

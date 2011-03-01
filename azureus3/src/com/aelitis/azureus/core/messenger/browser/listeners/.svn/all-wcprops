@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/20175/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser/listeners
+END
+MessageCompletionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/17763/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser/listeners/MessageCompletionListener.java
+END
+AbstractBrowserMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/public/!svn/ver/18149/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser/listeners/AbstractBrowserMessageListener.java
+END
+BrowserMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/18149/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/browser/listeners/BrowserMessageListener.java
+END

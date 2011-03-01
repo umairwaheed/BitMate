@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/public/!svn/ver/25892/client/trunk/azureus2/lib/libWIN32Access/bin
+END
+aereg64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/25891/client/trunk/azureus2/lib/libWIN32Access/bin/aereg64.dll
+END
+aereg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/25891/client/trunk/azureus2/lib/libWIN32Access/bin/aereg.dll
+END
+aereg_debug.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/25892/client/trunk/azureus2/lib/libWIN32Access/bin/aereg_debug.dll
+END

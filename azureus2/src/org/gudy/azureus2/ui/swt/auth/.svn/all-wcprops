@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/auth
+END
+CertificateCreatorWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15556/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/auth/CertificateCreatorWindow.java
+END
+AuthenticatorWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15556/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/auth/AuthenticatorWindow.java
+END
+CryptoWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/auth/CryptoWindow.java
+END
+CertificateTrustWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15556/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/auth/CertificateTrustWindow.java
+END

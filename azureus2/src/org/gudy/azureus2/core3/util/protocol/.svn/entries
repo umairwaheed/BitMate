@@ -1,0 +1,89 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol
+http://svn.vuze.com/public
+
+
+
+2010-10-13T21:53:20.438451Z
+25846
+pgardner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+AzURLStreamHandlerFactory.java
+file
+
+
+
+
+2010-12-17T13:09:31.000000Z
+3ea4ffb98bfe600ebdc76516ed14efe9
+2008-07-06T13:10:33.000000Z
+13712
+the8472
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1748
+
+azplug
+dir
+
+bc
+dir
+
+dht
+dir
+
+i2p
+dir
+
+magnet
+dir
+
+socks5
+dir
+
+tcp
+dir
+
+udp
+dir
+
+vuze
+dir
+

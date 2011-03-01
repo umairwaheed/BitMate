@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25137/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/bittorrent
+END
+BTMessageCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/bittorrent/BTMessageCancel.java
+END
+BTMessageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/bittorrent/BTMessageRequest.java
+END
+BTMessagePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/bittorrent/BTMessagePiece.java
+END
+BTMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25137/client/trunk/azureus2/src/org/gudy/azureus2/plugins/messaging/bittorrent/BTMessageManager.java
+END

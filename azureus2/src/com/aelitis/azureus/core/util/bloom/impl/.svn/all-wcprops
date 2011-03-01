@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/impl
+END
+BloomFilterAddRemove8Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/impl/BloomFilterAddRemove8Bit.java
+END
+BloomFilterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/impl/BloomFilterImpl.java
+END
+BloomFilterAddRemove4Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/impl/BloomFilterAddRemove4Bit.java
+END
+BloomFilterAddOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/impl/BloomFilterAddOnly.java
+END
+BloomFilterRotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/impl/BloomFilterRotator.java
+END

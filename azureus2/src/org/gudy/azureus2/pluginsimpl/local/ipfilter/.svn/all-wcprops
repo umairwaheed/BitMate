@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/10443/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ipfilter
+END
+IPFilterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/10443/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ipfilter/IPFilterImpl.java
+END
+IPRangeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/5198/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ipfilter/IPRangeImpl.java
+END
+IPBannedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/10280/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ipfilter/IPBannedImpl.java
+END
+IPBlockedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/3770/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ipfilter/IPBlockedImpl.java
+END

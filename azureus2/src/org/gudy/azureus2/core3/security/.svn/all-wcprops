@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/25105/client/trunk/azureus2/src/org/gudy/azureus2/core3/security
+END
+SESecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/15929/client/trunk/azureus2/src/org/gudy/azureus2/core3/security/SESecurityManager.java
+END
+SECertificateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/1802/client/trunk/azureus2/src/org/gudy/azureus2/core3/security/SECertificateListener.java
+END
+SEKeyDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/security/SEKeyDetails.java
+END
+SEPasswordListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/9396/client/trunk/azureus2/src/org/gudy/azureus2/core3/security/SEPasswordListener.java
+END

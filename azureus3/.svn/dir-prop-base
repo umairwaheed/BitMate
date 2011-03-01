@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 52
+.classpath
+.project
+jarit.jardesc
+swt.jar
+.settings
+
+END

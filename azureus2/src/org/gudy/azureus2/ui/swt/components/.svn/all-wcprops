@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/26090/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components
+END
+Legend.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/12266/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/Legend.java
+END
+CompositeMinSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/24994/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/CompositeMinSize.java
+END
+StringListChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/13132/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/StringListChooser.java
+END
+BufferedTableRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25442/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedTableRow.java
+END
+BufferedToolItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8794/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedToolItem.java
+END
+LinkArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/11224/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/LinkArea.java
+END
+CustomTableTooltipHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14408/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/CustomTableTooltipHandler.java
+END
+BufferedWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/1238/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedWidget.java
+END
+BufferedTableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/12858/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedTableItem.java
+END
+BufferedTableItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/26090/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedTableItemImpl.java
+END
+BufferedGraphicTableItem2.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/24674/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedGraphicTableItem2.java
+END
+LinkLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/24778/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/LinkLabel.java
+END
+BufferedGraphicTableItem1.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25218/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedGraphicTableItem1.java
+END
+BufferedGraphicTableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/10551/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedGraphicTableItem.java
+END
+BufferedLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/16026/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedLabel.java
+END
+BufferedTruncatedLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15237/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/BufferedTruncatedLabel.java
+END
+ControlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13688/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/components/ControlUtils.java
+END

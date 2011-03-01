@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25921/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker
+END
+PiecePickerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/9976/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker/PiecePickerListener.java
+END
+PiecePickerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker/PiecePickerFactory.java
+END
+EndGameModeChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8317/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker/EndGameModeChunk.java
+END
+PiecePicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12461/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker/PiecePicker.java
+END
+PiecePriorityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/9976/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker/PiecePriorityProvider.java
+END
+PieceRTAProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25069/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/piecepicker/PieceRTAProvider.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/13242/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test
+END
+SHA1Verification.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/9944/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test/SHA1Verification.java
+END
+Md5AlgorithmHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/3085/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test/Md5AlgorithmHelper.java
+END
+Sha1AlgorithmHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/2604/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test/Sha1AlgorithmHelper.java
+END
+SHA1SpeedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13242/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test/SHA1SpeedTest.java
+END
+SystemClockSpeedup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test/SystemClockSpeedup.java
+END
+SHA1Old.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/11732/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/test/SHA1Old.java
+END

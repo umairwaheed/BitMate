@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/26045/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader
+END
+ResourceDownloaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/25254/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloaderException.java
+END
+ResourceDownloaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/10502/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloaderAdapter.java
+END
+ResourceDownloaderDelayedFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloaderDelayedFactory.java
+END
+ResourceDownloaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/10502/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloaderListener.java
+END
+ResourceDownloaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/13586/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloaderFactory.java
+END
+ResourceDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/26045/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloader.java
+END
+ResourceDownloaderCancelledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/public/!svn/ver/25254/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/resourcedownloader/ResourceDownloaderCancelledException.java
+END

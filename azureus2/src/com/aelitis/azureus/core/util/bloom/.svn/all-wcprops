@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom
+END
+BloomFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/BloomFilterFactory.java
+END
+BloomFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15466/client/trunk/azureus2/src/com/aelitis/azureus/core/util/bloom/BloomFilter.java
+END

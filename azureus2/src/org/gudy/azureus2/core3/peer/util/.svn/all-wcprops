@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/12379/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/util
+END
+PeerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/11674/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/util/PeerUtils.java
+END
+PeerIdentityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/12379/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/util/PeerIdentityManager.java
+END
+PeerIdentityDataID.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/peer/util/PeerIdentityDataID.java
+END

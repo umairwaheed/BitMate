@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/25907/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard
+END
+LanguagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/24797/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/LanguagePanel.java
+END
+TransferPanel2.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/25298/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/TransferPanel2.java
+END
+FilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/FilePanel.java
+END
+NatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25907/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/NatPanel.java
+END
+WelcomePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/24783/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/WelcomePanel.java
+END
+FinishPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25904/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/FinishPanel.java
+END
+ConfigureWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25904/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/wizard/ConfigureWizard.java
+END

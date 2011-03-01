@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/25826/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport
+END
+DHTTransportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportListener.java
+END
+DHTTransportFindValueReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8578/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportFindValueReply.java
+END
+DHTTransportContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportContact.java
+END
+DHTTransportTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/9281/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportTransferHandler.java
+END
+DHTTransportStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportStats.java
+END
+DHTTransportStoreReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8578/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportStoreReply.java
+END
+DHTTransportProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportProgressListener.java
+END
+DHTTransportReplyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/15323/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportReplyHandler.java
+END
+DHTTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15358/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransport.java
+END
+DHTTransportQueryStoreReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportQueryStoreReply.java
+END
+DHTTransportValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15438/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportValue.java
+END
+DHTTransportFullStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/14070/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportFullStats.java
+END
+DHTTransportReplyHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/15323/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportReplyHandlerAdapter.java
+END
+DHTTransportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportException.java
+END
+DHTTransportRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/15333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportRequestHandler.java
+END
+DHTTransportFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/11208/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/DHTTransportFactory.java
+END

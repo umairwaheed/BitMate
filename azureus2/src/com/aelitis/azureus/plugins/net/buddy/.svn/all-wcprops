@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/26114/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy
+END
+BuddyPluginBuddyMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/14626/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginBuddyMessageHandler.java
+END
+BuddyPluginBuddyMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/13041/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginBuddyMessageListener.java
+END
+BuddyPluginBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15258/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginBuddy.java
+END
+BuddyPluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/13407/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginListener.java
+END
+BuddyPluginAZ2ChatListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/13407/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginAZ2ChatListener.java
+END
+BuddyPluginAZ2TrackerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/13301/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginAZ2TrackerListener.java
+END
+BuddyPluginTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/13380/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginTimeoutException.java
+END
+BuddyPluginAZ2.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/14800/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginAZ2.java
+END
+BuddyPluginPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginPasswordException.java
+END
+BuddyPluginBuddyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/13050/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginBuddyMessage.java
+END
+BuddyPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25308/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPlugin.java
+END
+BuddyPluginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginException.java
+END
+BuddyPluginAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/13407/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginAdapter.java
+END
+BuddyPluginBuddyRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/12931/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginBuddyRequestListener.java
+END
+BuddyPluginAZ2Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/13033/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginAZ2Listener.java
+END
+BuddyPluginBuddyReplyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/12889/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/buddy/BuddyPluginBuddyReplyListener.java
+END

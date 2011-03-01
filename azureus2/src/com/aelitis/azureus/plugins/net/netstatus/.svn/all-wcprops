@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/netstatus
+END
+NetStatusProtocolTesterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/12716/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/netstatus/NetStatusProtocolTesterListener.java
+END
+NetStatusProtocolTesterBT.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/netstatus/NetStatusProtocolTesterBT.java
+END
+NetStatusProtocolTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/12761/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/netstatus/NetStatusProtocolTester.java
+END
+NetStatusPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/12972/client/trunk/azureus2/src/com/aelitis/azureus/plugins/net/netstatus/NetStatusPlugin.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/15454/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/util
+END
+ExternalSeedHTTPDownloaderLinear.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/15454/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/util/ExternalSeedHTTPDownloaderLinear.java
+END
+ExternalSeedHTTPDownloaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/15452/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/util/ExternalSeedHTTPDownloaderListener.java
+END
+ExternalSeedHTTPDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/15452/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/util/ExternalSeedHTTPDownloader.java
+END
+ExternalSeedHTTPDownloaderRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/15452/client/trunk/azureus2/src/com/aelitis/azureus/plugins/extseed/util/ExternalSeedHTTPDownloaderRange.java
+END

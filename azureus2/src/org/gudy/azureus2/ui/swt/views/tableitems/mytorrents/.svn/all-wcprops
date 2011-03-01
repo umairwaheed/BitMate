@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25665/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents
+END
+AvgAvailItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/AvgAvailItem.java
+END
+DateCompletedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/DateCompletedItem.java
+END
+HealthItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/HealthItem.java
+END
+CompletionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25665/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/CompletionItem.java
+END
+ColumnTorrentSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/25374/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/ColumnTorrentSpeed.java
+END
+SecondsSeedingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SecondsSeedingItem.java
+END
+ETAItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/ETAItem.java
+END
+UpSpeedLimitItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/UpSpeedLimitItem.java
+END
+TimeSinceUploadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TimeSinceUploadItem.java
+END
+SwarmAverageCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SwarmAverageCompletion.java
+END
+MaxUploadsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/15124/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/MaxUploadsItem.java
+END
+ColumnFileCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/ColumnFileCount.java
+END
+TrackerStatusItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/25308/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TrackerStatusItem.java
+END
+TrackerNameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TrackerNameItem.java
+END
+TotalSpeedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TotalSpeedItem.java
+END
+DoneItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/DoneItem.java
+END
+SavePathItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SavePathItem.java
+END
+CommentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/CommentItem.java
+END
+OnlyCDing4Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/OnlyCDing4Item.java
+END
+CategoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/CategoryItem.java
+END
+SeedToPeerRatioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SeedToPeerRatioItem.java
+END
+SecondsDownloadingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SecondsDownloadingItem.java
+END
+UpItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/UpItem.java
+END
+AvailabilityItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/AvailabilityItem.java
+END
+FilesDoneItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/FilesDoneItem.java
+END
+CommentIconItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/15432/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/CommentIconItem.java
+END
+BadAvailTimeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/BadAvailTimeItem.java
+END
+PeerSourcesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/PeerSourcesItem.java
+END
+RemainingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/RemainingItem.java
+END
+DownSpeedLimitItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/DownSpeedLimitItem.java
+END
+TimeSinceDownloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TimeSinceDownloadItem.java
+END
+TorrentPathItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TorrentPathItem.java
+END
+StatusItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/StatusItem.java
+END
+DateAddedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/DateAddedItem.java
+END
+PeersItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25324/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/PeersItem.java
+END
+SwarmAverageSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SwarmAverageSpeed.java
+END
+TrackerNextAccessItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TrackerNextAccessItem.java
+END
+RankItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/RankItem.java
+END
+ShareRatioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25223/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/ShareRatioItem.java
+END
+UpSpeedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/UpSpeedItem.java
+END
+NameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25322/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/NameItem.java
+END
+CompletedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/CompletedItem.java
+END
+AbstractTrackerCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/AbstractTrackerCell.java
+END
+DownSpeedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/DownSpeedItem.java
+END
+PiecesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/PiecesItem.java
+END
+NetworksItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/NetworksItem.java
+END
+TrackerCellUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/TrackerCellUtils.java
+END
+SeedsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25324/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SeedsItem.java
+END
+DownItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/DownItem.java
+END
+SizeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/mytorrents/SizeItem.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/security
+END
+CryptoManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/9942/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoManagerFactory.java
+END
+CryptoECCUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoECCUtils.java
+END
+CryptoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13393/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoManager.java
+END
+CryptoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13132/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoHandler.java
+END
+CryptoManagerPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoManagerPasswordException.java
+END
+CryptoManagerKeyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13393/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoManagerKeyListener.java
+END
+CryptoSTSEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/9060/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoSTSEngine.java
+END
+CryptoManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoManagerException.java
+END
+CryptoManagerPasswordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/13465/client/trunk/azureus2/src/com/aelitis/azureus/core/security/CryptoManagerPasswordHandler.java
+END

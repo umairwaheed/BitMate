@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/26146/client/trunk/azureus2/src/org/gudy/azureus2/plugins
+END
+PluginManagerDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15391/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginManagerDefaults.java
+END
+UnloadablePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/UnloadablePlugin.java
+END
+PluginConfigListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginConfigListener.java
+END
+PluginEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25252/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginEvent.java
+END
+PluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/3799/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginListener.java
+END
+PluginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/15932/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginInterface.java
+END
+LaunchablePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/LaunchablePlugin.java
+END
+PluginState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/15963/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginState.java
+END
+PluginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13874/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginException.java
+END
+PluginEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/3799/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginEventListener.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13967/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginManager.java
+END
+PluginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/6863/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginView.java
+END
+PluginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/15744/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginConfig.java
+END
+PluginManagerArgumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginManagerArgumentHandler.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/6637/client/trunk/azureus2/src/org/gudy/azureus2/plugins/Plugin.java
+END
+PluginLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/PluginLauncher.java
+END

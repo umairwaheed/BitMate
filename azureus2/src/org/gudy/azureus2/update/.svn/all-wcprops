@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/26036/client/trunk/azureus2/src/org/gudy/azureus2/update
+END
+CoreUpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/26036/client/trunk/azureus2/src/org/gudy/azureus2/update/CoreUpdateChecker.java
+END
+CorePatchChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/16105/client/trunk/azureus2/src/org/gudy/azureus2/update/CorePatchChecker.java
+END
+CorePatchLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15418/client/trunk/azureus2/src/org/gudy/azureus2/update/CorePatchLevel.java
+END
+UpdaterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/24574/client/trunk/azureus2/src/org/gudy/azureus2/update/UpdaterUtils.java
+END
+UpdateJarPatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/11040/client/trunk/azureus2/src/org/gudy/azureus2/update/UpdateJarPatcher.java
+END
+UpdaterUpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/11019/client/trunk/azureus2/src/org/gudy/azureus2/update/UpdaterUpdateChecker.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/update/Test.java
+END

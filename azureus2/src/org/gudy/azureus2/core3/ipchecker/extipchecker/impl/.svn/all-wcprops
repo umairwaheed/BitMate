@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/5491/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl
+END
+ExternalIPCheckerServiceDiscoveryVIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/public/!svn/ver/948/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl/ExternalIPCheckerServiceDiscoveryVIP.java
+END
+ExternalIPCheckerServiceNoLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/public/!svn/ver/1167/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl/ExternalIPCheckerServiceNoLookup.java
+END
+ExternalIPCheckerServiceSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/1167/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl/ExternalIPCheckerServiceSimple.java
+END
+ExternalIPCheckerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/1167/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl/ExternalIPCheckerImpl.java
+END
+ExternalIPCheckerServiceDynDNS.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/!svn/ver/948/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl/ExternalIPCheckerServiceDynDNS.java
+END
+ExternalIPCheckerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/5491/client/trunk/azureus2/src/org/gudy/azureus2/core3/ipchecker/extipchecker/impl/ExternalIPCheckerServiceImpl.java
+END

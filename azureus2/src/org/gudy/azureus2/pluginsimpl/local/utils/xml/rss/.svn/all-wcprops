@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/16107/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/xml/rss
+END
+RSSFeedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/13935/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/xml/rss/RSSFeedImpl.java
+END
+RSSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/16107/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/xml/rss/RSSUtils.java
+END
+RSSItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/15493/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/xml/rss/RSSItemImpl.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/10307/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/xml/rss/Test.java
+END
+RSSChannelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/15482/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/xml/rss/RSSChannelImpl.java
+END

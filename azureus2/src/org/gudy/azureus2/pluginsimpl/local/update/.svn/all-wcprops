@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/24554/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update
+END
+UpdateInstallerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/24554/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/UpdateInstallerImpl.java
+END
+UpdateCheckerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/10307/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/UpdateCheckerImpl.java
+END
+UpdateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/16078/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/UpdateImpl.java
+END
+UpdatableComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/UpdatableComponentImpl.java
+END
+UpdateManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/15793/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/UpdateManagerImpl.java
+END
+UpdateCheckInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/16105/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/UpdateCheckInstanceImpl.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/update/Test.java
+END

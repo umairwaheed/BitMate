@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/rpexceptions
+END
+RPObjectNoLongerExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/rpexceptions/RPObjectNoLongerExistsException.java
+END
+RPInternalProcessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/rpexceptions/RPInternalProcessException.java
+END
+RPThrowableAsReplyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/rpexceptions/RPThrowableAsReplyException.java
+END
+RPNoObjectIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/rpexceptions/RPNoObjectIDException.java
+END
+RPMethodAccessDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/rpexceptions/RPMethodAccessDeniedException.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/14591/client/trunk/azureus2/src/com/aelitis/azureus/core/neuronal
+END
+NeuralSpeedLimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/14591/client/trunk/azureus2/src/com/aelitis/azureus/core/neuronal/NeuralSpeedLimiter.java
+END
+NeuralNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/14561/client/trunk/azureus2/src/com/aelitis/azureus/core/neuronal/NeuralNetwork.java
+END
+LogisticActivationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/14561/client/trunk/azureus2/src/com/aelitis/azureus/core/neuronal/LogisticActivationFunction.java
+END
+ActivationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/14561/client/trunk/azureus2/src/com/aelitis/azureus/core/neuronal/ActivationFunction.java
+END
+NeuralNetworkLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/14561/client/trunk/azureus2/src/com/aelitis/azureus/core/neuronal/NeuralNetworkLayer.java
+END

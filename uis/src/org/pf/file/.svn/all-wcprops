@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file
+END
+LineProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/LineProcessor.java
+END
+FileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/FileHandler.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/FileUtil.java
+END
+ExtendedFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/ExtendedFileFilter.java
+END
+FileLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/FileLocator.java
+END
+FileWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/FileWalker.java
+END
+FileFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/file/FileFinder.java
+END

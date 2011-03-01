@@ -1,0 +1,83 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/bouncycastle
+http://svn.vuze.com/public
+
+
+
+2008-06-18T17:35:29.000000Z
+13557
+parg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+LICENSE.java
+file
+
+
+
+
+2010-12-17T13:10:02.000000Z
+102943bbe90c91a803d97a6ad1887bc3
+2004-06-08T12:13:04.000000Z
+3800
+parg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3377
+
+asn1
+dir
+
+crypto
+dir
+
+jce
+dir
+
+math
+dir
+
+openssl
+dir
+
+util
+dir
+
+x509
+dir
+

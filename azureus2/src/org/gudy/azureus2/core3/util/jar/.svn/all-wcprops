@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/13236/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/jar
+END
+AEJarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/4604/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/jar/AEJarReader.java
+END
+AEJarBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/7472/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/jar/AEJarBuilder.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/jar/Test.java
+END
+AEJarSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/jar/AEJarSigner.java
+END
+AEJarSigner2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/13236/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/jar/AEJarSigner2.java
+END

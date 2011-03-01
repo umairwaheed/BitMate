@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/impl
+END
+AZInstanceManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/impl/AZInstanceManagerImpl.java
+END
+AZInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/impl/AZInstanceImpl.java
+END
+AZOtherInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/impl/AZOtherInstanceImpl.java
+END
+AZMyInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/impl/AZMyInstanceImpl.java
+END
+AZPortClashHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/9328/client/trunk/azureus2/src/com/aelitis/azureus/core/instancemanager/impl/AZPortClashHandler.java
+END

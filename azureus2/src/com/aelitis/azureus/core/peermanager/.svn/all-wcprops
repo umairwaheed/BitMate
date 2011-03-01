@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/26146/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager
+END
+PeerManagerRoutingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/9845/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/PeerManagerRoutingListener.java
+END
+PeerManagerRegistrationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/12632/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/PeerManagerRegistrationAdapter.java
+END
+PeerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/25625/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/PeerManager.java
+END
+PeerManagerRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/14032/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/PeerManagerRegistration.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp/impl
+END
+SSDPIGDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/SSDPIGDFactory.java
+END
+SSDPIGDListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/8773/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/SSDPIGDListener.java
+END
+UPnPImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/UPnPImpl.java
+END
+SSDPIGD.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/SSDPIGD.java
+END

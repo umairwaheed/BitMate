@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/13706/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/socks/impl
+END
+AESocksProxyState.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/socks/impl/AESocksProxyState.java
+END
+AESocksProxyPlugableConnectionDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/13706/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/socks/impl/AESocksProxyPlugableConnectionDefault.java
+END
+AESocksProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/9962/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/socks/impl/AESocksProxyImpl.java
+END
+AESocksProxyAddressImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/socks/impl/AESocksProxyAddressImpl.java
+END
+AESocksProxyConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/socks/impl/AESocksProxyConnectionImpl.java
+END

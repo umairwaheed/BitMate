@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/26110/client/trunk/azureus2/src/com/aelitis/azureus/ui
+END
+IUIIntializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/14992/client/trunk/azureus2/src/com/aelitis/azureus/ui/IUIIntializer.java
+END
+UserPrompterResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15442/client/trunk/azureus2/src/com/aelitis/azureus/ui/UserPrompterResultListener.java
+END
+UIStatusTextClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/10444/client/trunk/azureus2/src/com/aelitis/azureus/ui/UIStatusTextClickListener.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/10965/client/trunk/azureus2/src/com/aelitis/azureus/ui/Main.java
+END
+UIFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/25425/client/trunk/azureus2/src/com/aelitis/azureus/ui/UIFunctions.java
+END
+UIFunctionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25861/client/trunk/azureus2/src/com/aelitis/azureus/ui/UIFunctionsManager.java
+END
+InitializerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/10968/client/trunk/azureus2/src/com/aelitis/azureus/ui/InitializerListener.java
+END
+UIFunctionsUserPrompter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15442/client/trunk/azureus2/src/com/aelitis/azureus/ui/UIFunctionsUserPrompter.java
+END

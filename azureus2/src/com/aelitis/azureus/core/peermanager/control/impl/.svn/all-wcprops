@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/14960/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/control/impl
+END
+PeerControlSchedulerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/14957/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/control/impl/PeerControlSchedulerImpl.java
+END
+PeerControlSchedulerPrioritised.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/13231/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/control/impl/PeerControlSchedulerPrioritised.java
+END
+PeerControlSchedulerBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/14960/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/control/impl/PeerControlSchedulerBasic.java
+END
+SpeedTokenDispenserBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/11971/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/control/impl/SpeedTokenDispenserBasic.java
+END
+SpeedTokenDispenserPrioritised.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/!svn/ver/12287/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/control/impl/SpeedTokenDispenserPrioritised.java
+END

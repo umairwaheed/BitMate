@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25663/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/columnsetup
+END
+TableColumnSetupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25663/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/columnsetup/TableColumnSetupWindow.java
+END
+ColumnTC_Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/columnsetup/ColumnTC_Info.java
+END
+ColumnTC_Sample.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/16045/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/columnsetup/ColumnTC_Sample.java
+END
+ColumnTC_NameInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25111/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/columnsetup/ColumnTC_NameInfo.java
+END
+ColumnTC_ChosenColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14682/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/columnsetup/ColumnTC_ChosenColumn.java
+END

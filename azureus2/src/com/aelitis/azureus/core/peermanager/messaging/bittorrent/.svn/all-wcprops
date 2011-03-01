@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25629/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent
+END
+BTMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/15636/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTMessageDecoder.java
+END
+BTLTMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/12427/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTLTMessage.java
+END
+BTCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTCancel.java
+END
+BTHaveAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/15712/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTHaveAll.java
+END
+BTMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/10528/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTMessageEncoder.java
+END
+BTHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/15712/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTHandshake.java
+END
+BTBitfield.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTBitfield.java
+END
+BTDHTPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/12430/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTDHTPort.java
+END
+BTRejectRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/15712/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTRejectRequest.java
+END
+BTRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTRequest.java
+END
+BTPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTPiece.java
+END
+BTSuggestPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/15715/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTSuggestPiece.java
+END
+BTInterested.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTInterested.java
+END
+BTHave.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTHave.java
+END
+BTUnchoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTUnchoke.java
+END
+BTKeepAlive.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/12696/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTKeepAlive.java
+END
+BTMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/15715/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTMessageFactory.java
+END
+BTMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/15712/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTMessage.java
+END
+BTUninterested.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTUninterested.java
+END
+BTChoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTChoke.java
+END
+BTHaveNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/15712/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTHaveNone.java
+END
+BTAllowedFast.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/15715/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTAllowedFast.java
+END
+BTRawMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/14083/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/BTRawMessage.java
+END

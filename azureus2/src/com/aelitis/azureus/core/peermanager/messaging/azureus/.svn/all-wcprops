@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25182/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus
+END
+AZGenericMapPayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZGenericMapPayload.java
+END
+AZMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/24599/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZMessage.java
+END
+AZMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/25181/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZMessageEncoder.java
+END
+AZHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15389/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZHandshake.java
+END
+AZPeerExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/12411/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZPeerExchange.java
+END
+AZStatReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/24599/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZStatReply.java
+END
+AZRequestHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZRequestHint.java
+END
+AZStylePeerExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/12411/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZStylePeerExchange.java
+END
+AZMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/25182/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZMessageFactory.java
+END
+AZMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/12312/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZMessageDecoder.java
+END
+AZStatRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/24599/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZStatRequest.java
+END
+AZBadPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/11364/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZBadPiece.java
+END
+AZHave.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11183/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/azureus/AZHave.java
+END

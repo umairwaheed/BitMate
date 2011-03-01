@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25870/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns
+END
+ColumnOD_Completion.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnOD_Completion.java
+END
+ColumnOD_Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25496/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnOD_Name.java
+END
+ColumnTJ_Completion.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Completion.java
+END
+ColumnTJ_Rank.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Rank.java
+END
+ColumnTJ_Resolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Resolution.java
+END
+ColumnTJ_Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Name.java
+END
+ColumnTJ_Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Device.java
+END
+ColumnTJ_CopiedToDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_CopiedToDevice.java
+END
+ColumnTJ_Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Duration.java
+END
+ColumnOD_Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnOD_Status.java
+END
+ColumnTJ_Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Profile.java
+END
+ColumnTJ_Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25703/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Status.java
+END
+ColumnOD_Remaining.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25320/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnOD_Remaining.java
+END
+ColumnTJ_Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25870/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/devices/columns/ColumnTJ_Category.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/25847/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl
+END
+MetaSearchManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25847/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/MetaSearchManagerImpl.java
+END
+FieldRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/17672/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/FieldRemapper.java
+END
+ExternalLoginWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/20230/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/ExternalLoginWindow.java
+END
+DateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/17671/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/DateParser.java
+END
+MetaSearchImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/25832/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/MetaSearchImpl.java
+END
+DateParserRegex.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/20243/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/DateParserRegex.java
+END
+SearchExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/19264/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/SearchExecuter.java
+END
+DateParserClassic.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/17671/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/DateParserClassic.java
+END
+ExternalLoginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/18442/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/ExternalLoginListener.java
+END
+EngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25847/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/EngineImpl.java
+END
+FieldRemapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/17671/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/impl/FieldRemapping.java
+END

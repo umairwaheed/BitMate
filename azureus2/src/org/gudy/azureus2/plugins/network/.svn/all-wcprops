@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25137/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network
+END
+IncomingMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25137/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/IncomingMessageQueue.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/ConnectionManager.java
+END
+RawMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/RawMessage.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/Connection.java
+END
+OutgoingMessageQueueListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/OutgoingMessageQueueListener.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/Transport.java
+END
+RateLimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/12939/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/RateLimiter.java
+END
+OutgoingMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/24717/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/OutgoingMessageQueue.java
+END
+TransportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/TransportException.java
+END
+IncomingMessageQueueListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/IncomingMessageQueueListener.java
+END
+TransportCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/TransportCipher.java
+END
+ConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/ConnectionListener.java
+END
+TransportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/network/TransportFilter.java
+END

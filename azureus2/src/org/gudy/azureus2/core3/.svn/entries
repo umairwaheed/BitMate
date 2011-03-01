@@ -1,0 +1,82 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/gudy/azureus2/core3
+http://svn.vuze.com/public
+
+
+
+2010-12-14T23:17:31.174855Z
+26145
+amogge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+category
+dir
+
+config
+dir
+
+disk
+dir
+
+download
+dir
+
+global
+dir
+
+html
+dir
+
+internat
+dir
+
+ipchecker
+dir
+
+ipfilter
+dir
+
+logging
+dir
+
+peer
+dir
+
+security
+dir
+
+stats
+dir
+
+torrent
+dir
+
+torrentdownloader
+dir
+
+tracker
+dir
+
+util
+dir
+
+xml
+dir
+

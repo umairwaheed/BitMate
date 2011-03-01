@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/25623/client/trunk/azureus2/src/com/aelitis/azureus/core/versioncheck
+END
+VersionCheckClientListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/24744/client/trunk/azureus2/src/com/aelitis/azureus/core/versioncheck/VersionCheckClientListener.java
+END
+VersionCheckClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25623/client/trunk/azureus2/src/com/aelitis/azureus/core/versioncheck/VersionCheckClient.java
+END
+VersionCheckClientUDPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/10039/client/trunk/azureus2/src/com/aelitis/azureus/core/versioncheck/VersionCheckClientUDPRequest.java
+END
+VersionCheckClientUDPReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/10039/client/trunk/azureus2/src/com/aelitis/azureus/core/versioncheck/VersionCheckClientUDPReply.java
+END
+VersionCheckClientUDPCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/13687/client/trunk/azureus2/src/com/aelitis/azureus/core/versioncheck/VersionCheckClientUDPCodecs.java
+END

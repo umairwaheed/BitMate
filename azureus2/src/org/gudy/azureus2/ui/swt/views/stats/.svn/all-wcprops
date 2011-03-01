@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/24937/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats
+END
+TrackerStatsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/15687/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/TrackerStatsView.java
+END
+TransferStatsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/24937/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/TransferStatsView.java
+END
+VivaldiView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/VivaldiView.java
+END
+CacheView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/10854/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/CacheView.java
+END
+DHTView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/DHTView.java
+END
+ActivityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15033/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/ActivityView.java
+END
+StatsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/24719/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/StatsView.java
+END
+VivaldiPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13590/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/stats/VivaldiPanel.java
+END

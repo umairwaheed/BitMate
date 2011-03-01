@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/24708/client/trunk/azureus2/src/org/gudy/azureus2/core3/global/impl
+END
+GlobalManagerHostSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/global/impl/GlobalManagerHostSupport.java
+END
+GlobalManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/24708/client/trunk/azureus2/src/org/gudy/azureus2/core3/global/impl/GlobalManagerImpl.java
+END
+GlobalManagerStatsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/10357/client/trunk/azureus2/src/org/gudy/azureus2/core3/global/impl/GlobalManagerStatsWriter.java
+END
+GlobalManagerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/11215/client/trunk/azureus2/src/org/gudy/azureus2/core3/global/impl/GlobalManagerStatsImpl.java
+END

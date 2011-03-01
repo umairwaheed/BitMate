@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/26070/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/viewtitleinfo
+END
+ViewTitleInfoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/15908/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/viewtitleinfo/ViewTitleInfoManager.java
+END
+ViewTitleInfoListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/13781/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/viewtitleinfo/ViewTitleInfoListener.java
+END
+ViewTitleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/15908/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/viewtitleinfo/ViewTitleInfo.java
+END
+ViewTitleInfo2.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/26070/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/viewtitleinfo/ViewTitleInfo2.java
+END

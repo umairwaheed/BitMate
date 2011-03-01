@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/14971/client/trunk/azureus2/src/org/gudy/azureus2/core3/html
+END
+HTMLPageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/14507/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLPageFactory.java
+END
+HTMLPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLPage.java
+END
+HTMLTableRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLTableRow.java
+END
+HTMLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/14971/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLUtils.java
+END
+HTMLTableCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLTableCell.java
+END
+HTMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLException.java
+END
+HTMLTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLTable.java
+END
+HTMLChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/html/HTMLChunk.java
+END

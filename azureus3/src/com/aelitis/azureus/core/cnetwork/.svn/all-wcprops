@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/26114/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork
+END
+ContentNetworkPropertyChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/19372/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork/ContentNetworkPropertyChangeListener.java
+END
+ContentNetworkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/19331/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork/ContentNetworkException.java
+END
+ContentNetworkListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/19634/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork/ContentNetworkListener.java
+END
+ContentNetworkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/19634/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork/ContentNetworkManager.java
+END
+ContentNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/24503/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork/ContentNetwork.java
+END
+ContentNetworkManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/19310/client/trunk/azureus3/src/com/aelitis/azureus/core/cnetwork/ContentNetworkManagerFactory.java
+END

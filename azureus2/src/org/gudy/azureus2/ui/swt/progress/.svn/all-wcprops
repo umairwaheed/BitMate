@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/15652/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress
+END
+ProgressReporterWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/12879/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressReporterWindow.java
+END
+ProgressReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/15640/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressReporter.java
+END
+IMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/12103/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/IMessage.java
+END
+ProgressWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressWindow.java
+END
+ProgressReportingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/12218/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressReportingManager.java
+END
+IProgressReportingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12061/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/IProgressReportingListener.java
+END
+IProgressReporterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/12077/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/IProgressReporterListener.java
+END
+IProgressReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/12106/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/IProgressReport.java
+END
+ProgressReporterStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/12158/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressReporterStack.java
+END
+IProgressReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/12106/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/IProgressReporter.java
+END
+ProgressReportMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/13485/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressReportMessage.java
+END
+ProgressReporterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15652/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/ProgressReporterPanel.java
+END
+IProgressReportConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/12218/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/progress/IProgressReportConstants.java
+END

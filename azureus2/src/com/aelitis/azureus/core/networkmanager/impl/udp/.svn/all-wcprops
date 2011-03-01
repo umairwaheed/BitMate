@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25873/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp
+END
+UDPSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12080/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPSelector.java
+END
+UDPNetworkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25176/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPNetworkManager.java
+END
+UDPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/10272/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPConnection.java
+END
+NetworkGlueUDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25634/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/NetworkGlueUDP.java
+END
+NetworkGlueLoopBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/9438/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/NetworkGlueLoopBack.java
+END
+UDPConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPConnectionManager.java
+END
+UDPPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/9180/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPPacket.java
+END
+UDPTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25873/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPTransport.java
+END
+NetworkGlueListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/9338/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/NetworkGlueListener.java
+END
+UDPTransportHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25625/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPTransportHelper.java
+END
+ProtocolEndpointUDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25857/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/ProtocolEndpointUDP.java
+END
+UDPConnectionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25180/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/UDPConnectionSet.java
+END
+NetworkGlue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/9338/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/NetworkGlue.java
+END
+TransportEndpointUDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/9086/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/udp/TransportEndpointUDP.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/26136/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrentdownloader
+END
+TorrentDownloaderCallBackInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrentdownloader/TorrentDownloaderCallBackInterface.java
+END
+TorrentDownloaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrentdownloader/TorrentDownloaderException.java
+END
+TorrentDownloaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/24835/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrentdownloader/TorrentDownloaderFactory.java
+END
+TorrentDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14605/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrentdownloader/TorrentDownloader.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/26042/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32
+END
+PlatformManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25801/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/PlatformManagerImpl.java
+END
+PlatformManagerUpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/16105/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/PlatformManagerUpdateChecker.java
+END

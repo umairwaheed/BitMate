@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/26015/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl
+END
+SubscriptionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/26015/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionManagerImpl.java
+END
+SubscriptionBodyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/19039/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionBodyImpl.java
+END
+SubscriptionSchedulerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/24949/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionSchedulerImpl.java
+END
+SubscriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25854/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionImpl.java
+END
+SubscriptionResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/25835/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionResultImpl.java
+END
+SubscriptionHistoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25798/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionHistoryImpl.java
+END
+SubscriptionRSSFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/24657/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionRSSFeed.java
+END
+SubscriptionDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/19296/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionDownloader.java
+END
+SubscriptionResultFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/19919/client/trunk/azureus3/src/com/aelitis/azureus/core/subs/impl/SubscriptionResultFilter.java
+END

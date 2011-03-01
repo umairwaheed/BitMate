@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/10303/client/trunk/azureus2/src/org/bouncycastle/crypto/engines
+END
+IESEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/crypto/engines/IESEngine.java
+END
+RC4Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/10303/client/trunk/azureus2/src/org/bouncycastle/crypto/engines/RC4Engine.java
+END
+RSAEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/5590/client/trunk/azureus2/src/org/bouncycastle/crypto/engines/RSAEngine.java
+END

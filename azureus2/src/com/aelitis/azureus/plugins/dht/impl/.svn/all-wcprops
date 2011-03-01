@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/impl
+END
+DHTPluginValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/10303/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/impl/DHTPluginValueImpl.java
+END
+DHTPluginContactImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/15415/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/impl/DHTPluginContactImpl.java
+END
+DHTPluginImplAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/11310/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/impl/DHTPluginImplAdapter.java
+END
+DHTPluginStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/15298/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/impl/DHTPluginStorageManager.java
+END
+DHTPluginImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/plugins/dht/impl/DHTPluginImpl.java
+END

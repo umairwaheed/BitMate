@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/26145/client/trunk/azureus2/src/org/gudy/azureus2/core3/util
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/26036/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/Constants.java
+END
+RandomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/14801/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/RandomUtils.java
+END
+AENetworkClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AENetworkClassifier.java
+END
+DisplayFormatters.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/24782/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DisplayFormatters.java
+END
+BEncodableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15476/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/BEncodableObject.java
+END
+NonDaemonTaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/12176/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/NonDaemonTaskRunner.java
+END
+DebugLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8146/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DebugLight.java
+END
+AsyncDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/25579/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AsyncDispatcher.java
+END
+ShellUtilityFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/24363/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ShellUtilityFinder.java
+END
+ByteFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/15219/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ByteFormatter.java
+END
+AERunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AERunnable.java
+END
+AETemporaryFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15007/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AETemporaryFileHandler.java
+END
+SHA1Hasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/12002/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/SHA1Hasher.java
+END
+ListenerManagerDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15024/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ListenerManagerDispatcher.java
+END
+FileIsADirectoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/FileIsADirectoryException.java
+END
+TimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25861/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TimeFormatter.java
+END
+SystemTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15568/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/SystemTime.java
+END
+IPToHostNameResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/12079/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/IPToHostNameResolver.java
+END
+HostNameToIPResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/12079/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/HostNameToIPResolver.java
+END
+BEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/24764/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/BEncoder.java
+END
+TimerEventPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/1233/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TimerEventPerformer.java
+END
+UnresolvableHostManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/UnresolvableHostManager.java
+END
+AEVerifierException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEVerifierException.java
+END
+AEMemoryMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/25922/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEMemoryMonitor.java
+END
+AEDiagnosticsEvidenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEDiagnosticsEvidenceGenerator.java
+END
+SimpleTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/12796/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/SimpleTimer.java
+END
+ED2KHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/9374/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ED2KHasher.java
+END
+ConcurrentHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15045/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ConcurrentHasher.java
+END
+Ignore.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/Ignore.java
+END
+DirectByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15712/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DirectByteBuffer.java
+END
+TimerEventPeriodic.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/12796/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TimerEventPeriodic.java
+END
+HashWrapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13301/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/HashWrapper2.java
+END
+AERunnableWithCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/12258/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AERunnableWithCallback.java
+END
+ThreadPoolTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/13260/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ThreadPoolTask.java
+END
+ListenerManagerDispatcherWithException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/1905/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ListenerManagerDispatcherWithException.java
+END
+AERunnableBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15442/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AERunnableBoolean.java
+END
+ThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/14181/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ThreadPool.java
+END
+AEThread2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/15936/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEThread2.java
+END
+SystemProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15957/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/SystemProperties.java
+END
+AENetworkClassifierListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AENetworkClassifierListener.java
+END
+AddressUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/24569/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AddressUtils.java
+END
+ConcurrentHasherRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ConcurrentHasherRequest.java
+END
+ListenerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15906/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ListenerManager.java
+END
+LightHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/14700/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/LightHashMap.java
+END
+AsyncController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/14084/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AsyncController.java
+END
+AEDiagnosticsLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/24523/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEDiagnosticsLogger.java
+END
+MD4Hasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/MD4Hasher.java
+END
+ReferenceCountedDirectByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/10439/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ReferenceCountedDirectByteBuffer.java
+END
+PausableAverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/9712/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/PausableAverage.java
+END
+AEMonSem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/14478/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEMonSem.java
+END
+StringInterner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25389/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/StringInterner.java
+END
+Base32.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/12901/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/Base32.java
+END
+HostNameToIPResolverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/HostNameToIPResolverListener.java
+END
+IPToHostNameResolverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/IPToHostNameResolverListener.java
+END
+AEThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/14181/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEThread.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/14327/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/Timer.java
+END
+SHA1.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/11732/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/SHA1.java
+END
+TorrentUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25777/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TorrentUtils.java
+END
+AESemaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/12239/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AESemaphore.java
+END
+AERunnableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/16072/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AERunnableObject.java
+END
+IndentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/15966/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/IndentWriter.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/24553/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/FileUtil.java
+END
+ByteArrayHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15090/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ByteArrayHashMap.java
+END
+DirectByteBufferPoolHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/14488/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DirectByteBufferPoolHeap.java
+END
+DelayedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13426/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DelayedEvent.java
+END
+AEGenericCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25608/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEGenericCallback.java
+END
+NonDaemonTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/12176/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/NonDaemonTask.java
+END
+IPToHostNameResolverRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/IPToHostNameResolverRequest.java
+END
+HostNameToIPResolverException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/HostNameToIPResolverException.java
+END
+AESemaphore2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/14938/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AESemaphore2.java
+END
+ConcurrentHasherRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ConcurrentHasherRequestListener.java
+END
+DirectByteBufferPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/14483/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DirectByteBufferPool.java
+END
+DirectByteBufferPoolReal.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/25549/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DirectByteBufferPoolReal.java
+END
+DebugWeakList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/10098/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/DebugWeakList.java
+END
+AECallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/12258/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AECallback.java
+END
+AEDiagnostics.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25938/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEDiagnostics.java
+END
+HashWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/9749/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/HashWrapper.java
+END
+FrequencyLimitedDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/26007/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/FrequencyLimitedDispatcher.java
+END
+BrokenMd5Hasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/7324/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/BrokenMd5Hasher.java
+END
+BDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25235/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/BDecoder.java
+END
+UrlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/26136/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/UrlUtils.java
+END
+LightHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/14896/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/LightHashSet.java
+END
+Average.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/15551/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/Average.java
+END
+TrackersUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/11853/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TrackersUtil.java
+END
+AEMonitor2.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/14938/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEMonitor2.java
+END
+BEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/BEncodingException.java
+END
+AEVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/9021/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEVerifier.java
+END
+RealTimeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/12068/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/RealTimeInfo.java
+END
+SHA1Simple.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/9112/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/SHA1Simple.java
+END
+AEMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/12239/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/AEMonitor.java
+END
+TimerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/12796/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TimerEvent.java
+END
+ByteEncodedKeyHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/15120/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/ByteEncodedKeyHashMap.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/26145/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/Debug.java
+END
+TimeLimitedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13426/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/TimeLimitedTask.java
+END

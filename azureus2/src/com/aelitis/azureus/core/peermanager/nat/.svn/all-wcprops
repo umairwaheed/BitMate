@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/11800/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/nat
+END
+PeerNATInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/9259/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/nat/PeerNATInitiator.java
+END
+PeerNATTraversalAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/9259/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/nat/PeerNATTraversalAdapter.java
+END
+PeerNATTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/11800/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/nat/PeerNATTraverser.java
+END

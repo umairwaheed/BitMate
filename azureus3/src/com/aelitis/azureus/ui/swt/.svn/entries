@@ -1,0 +1,150 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt
+http://svn.vuze.com/public
+
+
+
+2010-12-08T01:05:28.207805Z
+26134
+amogge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+Initializer.java
+file
+
+
+
+
+2010-12-17T13:11:05.000000Z
+0a7074cd746f5284ea3648db7aecaebc
+2010-10-11T22:28:10.175184Z
+25833
+amogge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23118
+
+UIConfigDefaultsSWTv3.java
+file
+
+
+
+
+2010-12-17T13:11:01.000000Z
+cac1745e9e7dc892f99f762ef6e3dd63
+2010-11-18T23:51:57.934076Z
+26078
+amogge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8468
+
+browser
+dir
+
+columns
+dir
+
+content
+dir
+
+devices
+dir
+
+extlistener
+dir
+
+feature
+dir
+
+layout
+dir
+
+mdi
+dir
+
+player
+dir
+
+plugininstall
+dir
+
+search
+dir
+
+shells
+dir
+
+skin
+dir
+
+subscriptions
+dir
+
+toolbar
+dir
+
+utils
+dir
+
+views
+dir
+
+widgets
+dir
+

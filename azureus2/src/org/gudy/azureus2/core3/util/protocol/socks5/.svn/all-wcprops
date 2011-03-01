@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8235/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/socks5
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8235/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/socks5/Handler.java
+END
+Socks5URLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8235/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/socks5/Socks5URLConnection.java
+END

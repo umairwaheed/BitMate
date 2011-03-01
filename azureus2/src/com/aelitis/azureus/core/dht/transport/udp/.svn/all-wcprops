@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25826/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp
+END
+DHTTransportUDPContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8978/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/DHTTransportUDPContact.java
+END
+DHTTransportUDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25826/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/DHTTransportUDP.java
+END

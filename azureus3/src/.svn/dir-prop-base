@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 279
+.classpath
+.project
+plugins
+swt.jar
+libswt-pi-carbon-3232.jnilib
+libswt-webkit-carbon-3232.jnilib
+libswt-carbon-3232.jnilib
+libswt-agl-carbon-3232.jnilib
+swt-gdip-win32-3232.dll
+swt-win32-3232.dll
+swt-awt-win32-3232.dll
+swt-wgl-win32-3232.dll
+.settings
+bin
+*.jardesc
+Azureus.app
+
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/25558/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control
+END
+DHTControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25558/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControl.java
+END
+DHTControlFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8858/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControlFactory.java
+END
+DHTControlActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControlActivity.java
+END
+DHTControlContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControlContact.java
+END
+DHTControlStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControlStats.java
+END
+DHTControlAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15298/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControlAdapter.java
+END
+DHTControlListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/control/DHTControlListener.java
+END

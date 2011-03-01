@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25688/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl
+END
+DiskManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25683/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerImpl.java
+END
+DiskManagerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13092/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerHelper.java
+END
+DiskManagerPieceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/11393/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerPieceImpl.java
+END
+DiskManagerAllocationScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/9550/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerAllocationScheduler.java
+END
+DiskManagerRecheckInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerRecheckInstance.java
+END
+DiskManagerFileInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/24969/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerFileInfoImpl.java
+END
+DiskManagerFileInfoSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/24969/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerFileInfoSetImpl.java
+END
+DiskManagerFileInfoHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerFileInfoHelper.java
+END
+DiskManagerRecheckScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/13133/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerRecheckScheduler.java
+END
+DiskManagerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25126/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/DiskManagerUtil.java
+END

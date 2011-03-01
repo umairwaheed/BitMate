@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/!svn/ver/25911/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons
+END
+transparent16x16.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/9870/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/transparent16x16.png
+END
+a16.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/14347/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/a16.png
+END
+delete.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/delete.gif
+END
+bottom.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/1710/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/bottom.gif
+END
+lock.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/lock.gif
+END
+resume.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/7283/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/resume.gif
+END
+info.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/3033/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/info.gif
+END
+progress_cancel.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/progress_cancel.png
+END
+icons.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/25911/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/icons.properties
+END
+export.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/export.gif
+END
+recheck.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/recheck.gif
+END
+smallx.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/9870/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/smallx.png
+END
+rss.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/13856/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/rss.png
+END
+zoom.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/zoom.png
+END
+progress_remove.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/progress_remove.png
+END
+foldersmall.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/10245/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/foldersmall.png
+END
+rcm.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/15479/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/rcm.png
+END
+downloadFinished.wav
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/1374/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/downloadFinished.wav
+END
+details.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/details.gif
+END
+smallx-gray.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/9870/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/smallx-gray.png
+END
+a64.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/14307/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/a64.png
+END
+comment.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/9921/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/comment.png
+END
+speed.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/1713/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/speed.gif
+END
+grayled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/7470/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/grayled.gif
+END
+progress_viewer.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/progress_viewer.png
+END
+downloadBar.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/929/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/downloadBar.png
+END
+edit_trackers.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/1713/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/edit_trackers.gif
+END
+move.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/move.gif
+END
+subitem.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/2724/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/subitem.gif
+END
+top.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/1710/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/top.gif
+END
+forcestart.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/2066/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/forcestart.gif
+END
+comment_blank.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13798/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/comment_blank.png
+END
+redled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/6202/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/redled.gif
+END
+columns.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/1713/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/columns.gif
+END
+dl_bar_end.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/14320/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/dl_bar_end.png
+END
+add_to_share.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/add_to_share.png
+END
+start.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/start.gif
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/5108/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/favicon.ico
+END
+a32.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/14307/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/a32.png
+END
+az3_osx_tray.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/9893/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/az3_osx_tray.png
+END
+error.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/9870/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/error.png
+END
+progress_viewer_has_error.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/progress_viewer_has_error.png
+END
+folder.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/67/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/folder.gif
+END
+dl_bar_0.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/14320/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/dl_bar_0.png
+END
+dl_bar_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/14320/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/dl_bar_1.png
+END
+Azureus_big.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/Azureus_big.png
+END
+pause.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/7283/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/pause.gif
+END
+progress_retry.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/progress_retry.png
+END
+openFolder16x12.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/2066/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/openFolder16x12.gif
+END
+up.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/up.png
+END
+stop.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/stop.gif
+END
+down.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/down.png
+END
+error.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/3033/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/error.gif
+END
+run.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/run.gif
+END
+search.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/11788/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/search.png
+END
+publish.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/publish.gif
+END
+lock.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/929/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/lock.png
+END
+popup.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/11841/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/popup.png
+END
+bar.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/bar.gif
+END
+progress_viewer_has_info.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13837/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/progress_viewer_has_info.png
+END
+az3_osx_tray_white.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/9893/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/az3_osx_tray_white.png
+END
+spinning_indicator_big_white.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/spinning_indicator_big_white.png
+END
+working.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/working.png
+END
+yellowled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/6202/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/yellowled.gif
+END
+add_tracker.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/1713/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/add_tracker.gif
+END
+a128.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/15367/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/a128.png
+END
+warning.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/3033/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/warning.gif
+END
+dragger.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/43/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/dragger.gif
+END
+host.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/1524/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/host.gif
+END
+greenled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/6202/client/trunk/azureus2/src/org/gudy/azureus2/ui/icons/greenled.gif
+END

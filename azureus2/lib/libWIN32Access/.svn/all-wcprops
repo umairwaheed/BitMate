@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/public/!svn/ver/26059/client/trunk/azureus2/lib/libWIN32Access
+END
+generate_ini.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25522/client/trunk/azureus2/lib/libWIN32Access/generate_ini.bat
+END
+aereg.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/aereg.dsp
+END
+ntddstor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/ntddstor.h
+END
+aereg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/25888/client/trunk/azureus2/lib/libWIN32Access/aereg.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/25494/client/trunk/azureus2/lib/libWIN32Access/StdAfx.cpp
+END
+aereg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/aereg.vcproj
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/public/!svn/ver/25494/client/trunk/azureus2/lib/libWIN32Access/StdAfx.h
+END
+aereg.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/aereg.dsw
+END
+aereg.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/25494/client/trunk/azureus2/lib/libWIN32Access/aereg.h
+END
+aereg.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/25522/client/trunk/azureus2/lib/libWIN32Access/aereg.vcxproj
+END
+aenet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/aenet.cpp
+END
+aedevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/25890/client/trunk/azureus2/lib/libWIN32Access/aedevice.cpp
+END
+aereg.suo
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/26059/client/trunk/azureus2/lib/libWIN32Access/aereg.suo
+END
+aereg.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25494/client/trunk/azureus2/lib/libWIN32Access/aereg.vcxproj.user
+END
+aenet.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/aenet.h
+END
+org_gudy_azureus2_platform_win32_access_impl_AEWin32AccessInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/25522/client/trunk/azureus2/lib/libWIN32Access/org_gudy_azureus2_platform_win32_access_impl_AEWin32AccessInterface.h
+END
+aereg.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/24425/client/trunk/azureus2/lib/libWIN32Access/aereg.vcxproj.filters
+END
+aereg.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/25505/client/trunk/azureus2/lib/libWIN32Access/aereg.sln
+END

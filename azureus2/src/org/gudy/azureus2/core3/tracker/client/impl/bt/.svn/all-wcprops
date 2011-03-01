@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25850/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt
+END
+TrackerChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt/TrackerChecker.java
+END
+TRTrackerBTAnnouncerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/25850/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt/TRTrackerBTAnnouncerImpl.java
+END
+TrackerLoadTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt/TrackerLoadTester.java
+END
+TrackerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25597/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt/TrackerStatus.java
+END
+TRTrackerBTScraperResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt/TRTrackerBTScraperResponseImpl.java
+END
+TRTrackerBTScraperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/bt/TRTrackerBTScraperImpl.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/26146/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/peerdb
+END
+PeerExchangerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25836/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/peerdb/PeerExchangerItem.java
+END
+PeerDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25836/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/peerdb/PeerDatabase.java
+END
+PeerDatabaseFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/peerdb/PeerDatabaseFactory.java
+END
+PeerItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/12868/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/peerdb/PeerItemFactory.java
+END
+PeerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/26146/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/peerdb/PeerItem.java
+END

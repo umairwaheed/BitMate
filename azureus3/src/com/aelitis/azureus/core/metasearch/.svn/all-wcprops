@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/25847/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch
+END
+MetaSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/25847/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/MetaSearchManager.java
+END
+SearchLoginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/18433/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/SearchLoginException.java
+END
+MetaSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25832/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/MetaSearch.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/20457/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/Result.java
+END
+MetaSearchManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/17569/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/MetaSearchManagerFactory.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/17671/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/SearchException.java
+END
+CookieParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/17671/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/CookieParameter.java
+END
+MetaSearchManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/20370/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/MetaSearchManagerListener.java
+END
+Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25847/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/Engine.java
+END
+MetaSearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/17573/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/MetaSearchException.java
+END
+MetaSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/18370/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/MetaSearchListener.java
+END
+ResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/18433/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/ResultListener.java
+END
+SearchParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/17671/client/trunk/azureus3/src/com/aelitis/azureus/core/metasearch/SearchParameter.java
+END

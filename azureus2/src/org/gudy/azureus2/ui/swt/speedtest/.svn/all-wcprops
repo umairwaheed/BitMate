@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/25376/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest
+END
+SpeedTestPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest/SpeedTestPanel.java
+END
+SpeedTestFinishPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/14368/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest/SpeedTestFinishPanel.java
+END
+SpeedTestSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25376/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest/SpeedTestSelector.java
+END
+SpeedTestWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/24824/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest/SpeedTestWizard.java
+END
+SpeedTestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/11031/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest/SpeedTestData.java
+END
+SpeedTestSetLimitPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/11554/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/speedtest/SpeedTestSetLimitPanel.java
+END

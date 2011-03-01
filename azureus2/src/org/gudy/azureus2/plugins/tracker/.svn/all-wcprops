@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/15813/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker
+END
+TrackerPeerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerPeerEvent.java
+END
+TrackerPeerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerPeerListener.java
+END
+TrackerTorrentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/6040/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerTorrentListener.java
+END
+TrackerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/2334/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerListener.java
+END
+TrackerPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8918/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerPeer.java
+END
+TrackerTorrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/7931/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerTorrent.java
+END
+Tracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/9547/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/Tracker.java
+END
+TrackerTorrentWillBeRemovedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/1954/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerTorrentWillBeRemovedListener.java
+END
+TrackerTorrentRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/6041/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerTorrentRequest.java
+END
+TrackerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerException.java
+END
+TrackerTorrentRemovalVetoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/TrackerTorrentRemovalVetoException.java
+END

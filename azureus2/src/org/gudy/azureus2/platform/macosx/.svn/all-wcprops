@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25788/client/trunk/azureus2/src/org/gudy/azureus2/platform/macosx
+END
+NativeInvocationBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/24839/client/trunk/azureus2/src/org/gudy/azureus2/platform/macosx/NativeInvocationBridge.java
+END
+PListEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/25748/client/trunk/azureus2/src/org/gudy/azureus2/platform/macosx/PListEditor.java
+END
+PlatformManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/25788/client/trunk/azureus2/src/org/gudy/azureus2/platform/macosx/PlatformManagerImpl.java
+END
+PlatformManagerUpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/16105/client/trunk/azureus2/src/org/gudy/azureus2/platform/macosx/PlatformManagerUpdateChecker.java
+END

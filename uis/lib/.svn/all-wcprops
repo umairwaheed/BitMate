@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/public/!svn/ver/24342/client/trunk/uis/lib
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/public/!svn/ver/24342/client/trunk/uis/lib/log4j.jar
+END
+commons-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/public/!svn/ver/24342/client/trunk/uis/lib/commons-cli.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/public/!svn/ver/24342/client/trunk/uis/lib/junit.jar
+END

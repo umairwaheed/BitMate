@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/14784/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/tcp
+END
+TCPURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14784/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/tcp/TCPURLConnection.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/14784/client/trunk/azureus2/src/org/gudy/azureus2/core3/util/protocol/tcp/Handler.java
+END

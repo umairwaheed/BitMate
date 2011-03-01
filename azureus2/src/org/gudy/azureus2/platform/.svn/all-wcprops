@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/!svn/ver/26042/client/trunk/azureus2/src/org/gudy/azureus2/platform
+END
+PlatformManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15009/client/trunk/azureus2/src/org/gudy/azureus2/platform/PlatformManagerFactory.java
+END
+PlatformManagerCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15741/client/trunk/azureus2/src/org/gudy/azureus2/platform/PlatformManagerCapabilities.java
+END
+PlatformManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/11500/client/trunk/azureus2/src/org/gudy/azureus2/platform/PlatformManagerListener.java
+END
+PlatformManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25788/client/trunk/azureus2/src/org/gudy/azureus2/platform/PlatformManager.java
+END
+PlatformManagerPluginDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25994/client/trunk/azureus2/src/org/gudy/azureus2/platform/PlatformManagerPluginDelegate.java
+END
+PlatformManagerPingCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/9896/client/trunk/azureus2/src/org/gudy/azureus2/platform/PlatformManagerPingCallback.java
+END

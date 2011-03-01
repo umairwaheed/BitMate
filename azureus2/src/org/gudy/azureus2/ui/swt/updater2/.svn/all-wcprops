@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/16105/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/updater2
+END
+swt_version.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3897/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/updater2/swt_version.php
+END
+SWTUpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/16105/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/updater2/SWTUpdateChecker.java
+END
+PreUpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/16039/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/updater2/PreUpdateChecker.java
+END
+SWTVersionGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/15734/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/updater2/SWTVersionGetter.java
+END

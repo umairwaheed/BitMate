@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15282/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/piecemapper/impl
+END
+PieceMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15282/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/piecemapper/impl/PieceMapperImpl.java
+END
+PieceListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/11339/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/piecemapper/impl/PieceListImpl.java
+END
+DMPieceMapSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/11339/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/piecemapper/impl/DMPieceMapSimple.java
+END
+DMPieceMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/11339/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/piecemapper/impl/DMPieceMapImpl.java
+END
+PieceMapEntryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/piecemapper/impl/PieceMapEntryImpl.java
+END

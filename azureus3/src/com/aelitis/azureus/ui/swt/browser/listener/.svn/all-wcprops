@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/25802/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener
+END
+VuzeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/20586/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/VuzeListener.java
+END
+DownloadUrlInfoSWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/19010/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/DownloadUrlInfoSWT.java
+END
+ConfigListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/19942/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/ConfigListener.java
+END
+DisplayListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25395/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/DisplayListener.java
+END
+ExternalLoginCookieListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/18894/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/ExternalLoginCookieListener.java
+END
+TorrentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25308/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/TorrentListener.java
+END
+MetaSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25802/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/browser/listener/MetaSearchListener.java
+END

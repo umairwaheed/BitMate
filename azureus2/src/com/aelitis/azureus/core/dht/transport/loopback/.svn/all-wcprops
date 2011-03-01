@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/loopback
+END
+DHTTransportLoopbackContactImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/loopback/DHTTransportLoopbackContactImpl.java
+END
+DHTTransportLoopbackStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/14484/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/loopback/DHTTransportLoopbackStatsImpl.java
+END
+DHTTransportLoopbackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/15358/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/loopback/DHTTransportLoopbackImpl.java
+END

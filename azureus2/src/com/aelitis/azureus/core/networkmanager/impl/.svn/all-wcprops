@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/25873/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl
+END
+TransportHelperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/12941/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilter.java
+END
+TransportHelperFilterStreamXOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/12941/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilterStreamXOR.java
+END
+NetworkConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25662/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/NetworkConnectionImpl.java
+END
+MultiPeerUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/MultiPeerUploader.java
+END
+TransportCryptoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/9977/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportCryptoManager.java
+END
+TransportHelperFilterTransparent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/12941/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilterTransparent.java
+END
+MultiPeerDownloader2.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/MultiPeerDownloader2.java
+END
+ProtocolDecoderPHE.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25179/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ProtocolDecoderPHE.java
+END
+RawMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/12696/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/RawMessageImpl.java
+END
+TransportHelperFilterStreamCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/13166/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilterStreamCipher.java
+END
+ByteBucketMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/24700/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ByteBucketMT.java
+END
+ProtocolDecoderInitial.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/12818/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ProtocolDecoderInitial.java
+END
+SinglePeerUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/SinglePeerUploader.java
+END
+TransportHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25625/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelper.java
+END
+OutgoingMessageQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/24719/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/OutgoingMessageQueueImpl.java
+END
+TransportCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/13165/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportCipher.java
+END
+ByteBucketST.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/24700/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ByteBucketST.java
+END
+ByteBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/24700/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ByteBucket.java
+END
+ReadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/24695/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ReadController.java
+END
+MultiPeerDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/MultiPeerDownloader.java
+END
+IncomingMessageQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/25137/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/IncomingMessageQueueImpl.java
+END
+TransportHelperFilterSwitcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/12941/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilterSwitcher.java
+END
+TransportHelperFilterStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/10607/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilterStream.java
+END
+ProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12990/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ProtocolDecoder.java
+END
+NetworkManagerUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/NetworkManagerUtilities.java
+END
+IncomingConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/25625/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/IncomingConnectionManager.java
+END
+TransportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25662/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportImpl.java
+END
+TransferProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25198/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransferProcessor.java
+END
+EntityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/EntityHandler.java
+END
+ProtocolDecoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/9438/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/ProtocolDecoderAdapter.java
+END
+SinglePeerDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/SinglePeerDownloader.java
+END
+WriteController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/24711/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/WriteController.java
+END
+TransportStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportStats.java
+END
+TransportHelperFilterInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/12941/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/TransportHelperFilterInserter.java
+END
+RateControlledEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25195/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/RateControlledEntity.java
+END

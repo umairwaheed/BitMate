@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/public/!svn/ver/26059/client/trunk/azureus2/lib
+END
+apple-extensions.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/!svn/ver/24337/client/trunk/azureus2/lib/apple-extensions.jar
+END
+swt-carbon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/public/!svn/ver/24834/client/trunk/azureus2/lib/swt-carbon.jar
+END
+swt-cocoa.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/public/!svn/ver/24832/client/trunk/azureus2/lib/swt-cocoa.jar
+END
+swt-win32.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/public/!svn/ver/24832/client/trunk/azureus2/lib/swt-win32.jar
+END
+JavaApplicationStub
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/public/!svn/ver/24337/client/trunk/azureus2/lib/JavaApplicationStub
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/16018/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update
+END
+UpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/9392/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateChecker.java
+END
+UpdateProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateProgressListener.java
+END
+Update.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/16018/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/Update.java
+END
+UpdateCheckInstanceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateCheckInstanceListener.java
+END
+UpdatableComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdatableComponent.java
+END
+UpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateException.java
+END
+UpdateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15793/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateManager.java
+END
+UpdateCheckerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateCheckerListener.java
+END
+UpdateInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/15803/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateInstaller.java
+END
+UpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13562/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateListener.java
+END
+UpdateManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateManagerListener.java
+END
+UpdateManagerDecisionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateManagerDecisionListener.java
+END
+UpdateCheckInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15934/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateCheckInstance.java
+END
+UpdateInstallerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15778/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateInstallerListener.java
+END
+UpdateManagerVerificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/8895/client/trunk/azureus2/src/org/gudy/azureus2/plugins/update/UpdateManagerVerificationListener.java
+END

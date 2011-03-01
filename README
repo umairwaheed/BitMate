@@ -1,0 +1,17 @@
+BitMate implementation:
+
+1. Minimize waisted goodwill:
+File - PEPeerControlImpl, UnchokerUtill
+Function - updateSimilarPeers, getNextOptimisticPeers
+
+2. Don't compete unnecassarily:
+File - PiecePickerImpl
+Function - getRequestCandidate
+
+3. Share Aggressively:
+File - PEPeerTransportProtocol, BTOptimisticHave
+Function - decodeOptimisticHave, sendOptimisticHave and decodePiece
+
+4. Minimize cross-isp traffic:
+File - PEPeerControlImpl
+Function - updateSimilarPeers

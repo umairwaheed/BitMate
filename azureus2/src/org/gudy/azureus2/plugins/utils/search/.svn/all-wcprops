@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/15055/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search
+END
+SearchObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/14171/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchObserver.java
+END
+SearchProviderResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/15049/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchProviderResults.java
+END
+SearchInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/13573/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchInstance.java
+END
+SearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/15049/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchListener.java
+END
+SearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/15049/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchProvider.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15049/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/Search.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/13573/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchException.java
+END
+SearchInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15054/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchInitiator.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15055/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/search/SearchResult.java
+END

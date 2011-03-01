@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins
+END
+PluginDirectoryParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginDirectoryParameter.java
+END
+PluginIntParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/7171/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginIntParameter.java
+END
+PluginFileParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginFileParameter.java
+END
+PluginStringsParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/7171/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginStringsParameter.java
+END
+PluginColorParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/7171/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginColorParameter.java
+END
+PluginParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/3827/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginParameter.java
+END
+PluginParameterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/1649/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginParameterImpl.java
+END
+PluginStringParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/7171/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginStringParameter.java
+END
+PluginBooleanParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/7171/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginBooleanParameter.java
+END
+PluginIntsParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/7171/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/plugins/PluginIntsParameter.java
+END

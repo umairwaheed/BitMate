@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/dht
+END
+TRTrackerDHTScraperResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/dht/TRTrackerDHTScraperResponseImpl.java
+END
+TRTrackerDHTScraperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/dht/TRTrackerDHTScraperImpl.java
+END
+TRTrackerDHTAnnouncerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/25192/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/dht/TRTrackerDHTAnnouncerImpl.java
+END

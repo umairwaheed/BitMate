@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/26124/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote
+END
+RPObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/12233/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPObject.java
+END
+RPFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/3138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPFactory.java
+END
+RPReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/12232/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPReply.java
+END
+RPRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/12243/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPRequestHandler.java
+END
+RPRequestDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/3138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPRequestDispatcher.java
+END
+RPPluginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15932/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPPluginInterface.java
+END
+RPPluginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13396/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPPluginConfig.java
+END
+RPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/12229/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPException.java
+END
+RPRequestAccessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPRequestAccessController.java
+END
+RPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/12231/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/RPRequest.java
+END

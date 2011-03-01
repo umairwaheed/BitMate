@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/parser
+END
+Yylex.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/parser/Yylex.java
+END
+Yytoken.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/parser/Yytoken.java
+END
+JSONParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/parser/JSONParser.java
+END

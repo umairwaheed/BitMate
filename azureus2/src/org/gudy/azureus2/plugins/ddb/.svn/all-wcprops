@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/15415/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb
+END
+DistributedDatabaseProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseProgressListener.java
+END
+DistributedDatabaseKeyStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8935/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseKeyStats.java
+END
+DistributedDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15358/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabase.java
+END
+DistributedDatabaseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/13853/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseEvent.java
+END
+DistributedDatabaseValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8789/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseValue.java
+END
+DistributedDatabaseTransferType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseTransferType.java
+END
+DistributedDatabaseContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15415/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseContact.java
+END
+DistributedDatabaseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseListener.java
+END
+DistributedDatabaseKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseKey.java
+END
+DistributedDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseException.java
+END
+DistributedDatabaseTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ddb/DistributedDatabaseTransferHandler.java
+END

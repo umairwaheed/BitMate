@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/public/!svn/ver/25438/client/trunk/uis/src/org/gudy/azureus2/ui/console
+END
+UserProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/20801/client/trunk/uis/src/org/gudy/azureus2/ui/console/UserProfile.java
+END
+CommandReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/20711/client/trunk/uis/src/org/gudy/azureus2/ui/console/CommandReader.java
+END
+UI.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/20816/client/trunk/uis/src/org/gudy/azureus2/ui/console/UI.java
+END
+ConsoleInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/25438/client/trunk/uis/src/org/gudy/azureus2/ui/console/ConsoleInput.java
+END
+MakeTorrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/20675/client/trunk/uis/src/org/gudy/azureus2/ui/console/MakeTorrent.java
+END

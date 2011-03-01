@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/25839/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/update/sf
+END
+SFPluginDetailsLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/update/sf/SFPluginDetailsLoader.java
+END
+SFPluginDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/11346/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/update/sf/SFPluginDetails.java
+END
+SFPluginDetailsLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/update/sf/SFPluginDetailsLoaderFactory.java
+END
+SFPluginDetailsLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/update/sf/SFPluginDetailsLoaderListener.java
+END
+SFPluginDetailsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/update/sf/SFPluginDetailsException.java
+END

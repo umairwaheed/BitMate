@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/26075/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat
+END
+LocaleUtilEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtilEncodingException.java
+END
+LocaleUtilListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtilListener.java
+END
+LocaleUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/8967/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtil.java
+END
+LocaleUtilDecoderCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtilDecoderCandidate.java
+END
+LocaleUtilDecoderFallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/8878/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtilDecoderFallback.java
+END
+LocaleUtilDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtilDecoder.java
+END
+LocaleTorrentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/26043/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleTorrentUtil.java
+END
+LocaleUtilDecoderReal.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/LocaleUtilDecoderReal.java
+END
+MessageText.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/26075/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/MessageText.java
+END
+IntegratedResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/16074/client/trunk/azureus2/src/org/gudy/azureus2/core3/internat/IntegratedResourceBundle.java
+END

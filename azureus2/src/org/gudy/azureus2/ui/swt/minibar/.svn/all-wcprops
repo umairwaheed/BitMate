@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/15124/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/minibar
+END
+MiniBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/minibar/MiniBar.java
+END
+AllTransfersBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/15124/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/minibar/AllTransfersBar.java
+END
+DownloadBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15124/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/minibar/DownloadBar.java
+END
+MiniBarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13781/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/minibar/MiniBarManager.java
+END

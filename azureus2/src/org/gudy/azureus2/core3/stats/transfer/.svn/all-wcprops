@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/15561/client/trunk/azureus2/src/org/gudy/azureus2/core3/stats/transfer
+END
+StatsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/10142/client/trunk/azureus2/src/org/gudy/azureus2/core3/stats/transfer/StatsFactory.java
+END
+GeneralStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/11532/client/trunk/azureus2/src/org/gudy/azureus2/core3/stats/transfer/GeneralStats.java
+END
+OverallStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8529/client/trunk/azureus2/src/org/gudy/azureus2/core3/stats/transfer/OverallStats.java
+END

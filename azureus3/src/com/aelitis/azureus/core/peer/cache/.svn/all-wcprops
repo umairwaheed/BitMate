@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/19554/client/trunk/azureus3/src/com/aelitis/azureus/core/peer/cache
+END
+CacheDiscovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/19554/client/trunk/azureus3/src/com/aelitis/azureus/core/peer/cache/CacheDiscovery.java
+END
+CacheDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/16235/client/trunk/azureus3/src/com/aelitis/azureus/core/peer/cache/CacheDiscoverer.java
+END
+CachePeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/16371/client/trunk/azureus3/src/com/aelitis/azureus/core/peer/cache/CachePeer.java
+END

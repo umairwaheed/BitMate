@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/24727/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2
+END
+SpeedManagerAlgorithmProviderPingMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/!svn/ver/14340/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedManagerAlgorithmProviderPingMap.java
+END
+SMInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/11501/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMInstance.java
+END
+LimitControlSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/11324/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/LimitControlSetting.java
+END
+TransferMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/11252/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/TransferMode.java
+END
+PSMonitorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/11352/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/PSMonitorListener.java
+END
+SMSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11501/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMSearchManager.java
+END
+SMConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/24727/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMConst.java
+END
+SpeedLimitListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/11671/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedLimitListener.java
+END
+SpeedManagerAlgorithmProviderDHTPing.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/!svn/ver/14340/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedManagerAlgorithmProviderDHTPing.java
+END
+SpeedLimitMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13678/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedLimitMonitor.java
+END
+PingSpaceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/11252/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/PingSpaceMonitor.java
+END
+SMUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/11300/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMUpdate.java
+END
+LimitControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/11458/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/LimitControl.java
+END
+PingSourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/14824/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/PingSourceManager.java
+END
+SpeedLimitConfidence.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/11549/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedLimitConfidence.java
+END
+LimitControlDropUploadFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/12833/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/LimitControlDropUploadFirst.java
+END
+LimitControlPreferDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/11458/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/LimitControlPreferDownload.java
+END
+SaturatedMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/11501/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SaturatedMode.java
+END
+PingSpaceMon.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/24727/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/PingSpaceMon.java
+END
+SpeedManagerAlgorithmProviderV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/14340/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedManagerAlgorithmProviderV2.java
+END
+SpeedManagerLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14340/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SpeedManagerLogger.java
+END
+PingSpaceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11324/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/PingSpaceMapper.java
+END
+SMConfigurationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/11501/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMConfigurationAdapter.java
+END
+SMConfigurationAdapterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/24727/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMConfigurationAdapterImpl.java
+END
+SMSearchLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/11501/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/SMSearchLogger.java
+END
+PingSourceStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11252/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/v2/PingSourceStats.java
+END

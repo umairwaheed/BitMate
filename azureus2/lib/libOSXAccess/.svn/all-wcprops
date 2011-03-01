@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/public/!svn/ver/25619/client/trunk/azureus2/lib/libOSXAccess
+END
+IONotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/25618/client/trunk/azureus2/lib/libOSXAccess/IONotification.m
+END
+OSXAccess.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/25618/client/trunk/azureus2/lib/libOSXAccess/OSXAccess.mm
+END
+org_gudy_azureus2_platform_macosx_access_jnilib_OSXAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/24338/client/trunk/azureus2/lib/libOSXAccess/org_gudy_azureus2_platform_macosx_access_jnilib_OSXAccess.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/public/!svn/ver/24338/client/trunk/azureus2/lib/libOSXAccess/makefile
+END
+IONotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/24338/client/trunk/azureus2/lib/libOSXAccess/IONotification.h
+END
+libOSXAccess.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/25619/client/trunk/azureus2/lib/libOSXAccess/libOSXAccess.jnilib
+END
+libOSXAccess_10.5.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/25618/client/trunk/azureus2/lib/libOSXAccess/libOSXAccess_10.5.jnilib
+END

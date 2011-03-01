@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing
+END
+ShareException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareException.java
+END
+ShareResourceDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/1808/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceDir.java
+END
+ShareManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/7306/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareManager.java
+END
+ShareResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15181/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResource.java
+END
+ShareResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceEvent.java
+END
+ShareResourceWillBeDeletedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/1954/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceWillBeDeletedListener.java
+END
+ShareResourceDirContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/1817/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceDirContents.java
+END
+ShareResourceDeletionVetoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceDeletionVetoException.java
+END
+ShareResourceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/1808/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceFile.java
+END
+ShareItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/1832/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareItem.java
+END
+ShareManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareManagerListener.java
+END
+ShareResourceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/sharing/ShareResourceListener.java
+END

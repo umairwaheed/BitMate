@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/26111/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl
+END
+FMFileUnlimited.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25530/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileUnlimited.java
+END
+FMFileAccessLinear.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/26111/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileAccessLinear.java
+END
+FMFileAccessCompact.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25529/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileAccessCompact.java
+END
+FMFileManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/12282/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileManagerImpl.java
+END
+FMFileAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25529/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileAccess.java
+END
+FMFileLimited.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25530/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileLimited.java
+END
+FMFileTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileTestImpl.java
+END
+FMFileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/25529/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileImpl.java
+END
+FMFileAccessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/25529/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileAccessController.java
+END
+FMFileAccessPieceReorderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/25691/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/impl/FMFileAccessPieceReorderer.java
+END

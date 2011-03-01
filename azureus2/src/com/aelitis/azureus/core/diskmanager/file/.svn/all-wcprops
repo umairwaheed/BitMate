@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/26111/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file
+END
+FMFileManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/4219/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/FMFileManagerFactory.java
+END
+FMFileOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/13092/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/FMFileOwner.java
+END
+FMFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/10303/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/FMFileManager.java
+END
+FMFileManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/24860/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/FMFileManagerException.java
+END
+FMFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/24847/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/file/FMFile.java
+END

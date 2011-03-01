@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/26065/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config
+END
+PlatformSubscriptionsMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/25825/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformSubscriptionsMessenger.java
+END
+PlatformConfigMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25550/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformConfigMessenger.java
+END
+PlatformContentNetworkMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/20223/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformContentNetworkMessenger.java
+END
+PlatformDevicesMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/26065/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformDevicesMessenger.java
+END
+PlatformVuzeActivitiesMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/25193/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformVuzeActivitiesMessenger.java
+END
+PlatformTorrentMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/20173/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformTorrentMessenger.java
+END
+PlatformMetaSearchMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/25609/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformMetaSearchMessenger.java
+END
+PlatformMessengerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/19330/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformMessengerConfig.java
+END
+PlatformMetaDataMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/20292/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/config/PlatformMetaDataMessenger.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/25134/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk
+END
+DiskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25134/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManager.java
+END
+DiskManagerWriteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25134/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerWriteRequest.java
+END
+DiskManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15919/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerException.java
+END
+DiskManagerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/14881/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerRequest.java
+END
+DiskManagerReadRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/15919/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerReadRequestListener.java
+END
+DiskManagerFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25122/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerFileInfo.java
+END
+DiskManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/8828/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerEvent.java
+END
+DiskManagerReadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/15919/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerReadRequest.java
+END
+DiskManagerWriteRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25134/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerWriteRequestListener.java
+END
+DiskManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8791/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerListener.java
+END
+DiskManagerChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25031/client/trunk/azureus2/src/org/gudy/azureus2/plugins/disk/DiskManagerChannel.java
+END

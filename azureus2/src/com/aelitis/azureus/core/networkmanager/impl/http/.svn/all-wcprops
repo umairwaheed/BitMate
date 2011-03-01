@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/25590/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http
+END
+HTTPNetworkConnectionFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/15040/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPNetworkConnectionFile.java
+END
+HTTPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11353/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPMessage.java
+END
+HTTPMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/10528/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPMessageEncoder.java
+END
+HTTPNetworkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25590/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPNetworkManager.java
+END
+HTTPMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/11353/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPMessageDecoder.java
+END
+HTTPNetworkConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/15117/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPNetworkConnection.java
+END
+HTTPNetworkConnectionWebSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/15040/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/impl/http/HTTPNetworkConnectionWebSeed.java
+END

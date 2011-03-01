@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/15403/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/subscriptions
+END
+SubscriptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/15379/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/subscriptions/SubscriptionManager.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15403/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/subscriptions/Subscription.java
+END
+SubscriptionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/15379/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/subscriptions/SubscriptionResult.java
+END
+SubscriptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/15379/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/subscriptions/SubscriptionException.java
+END

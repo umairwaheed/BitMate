@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/1768/client/trunk/azureus2/src/org/gudy/azureus2/core3/xml/schemas
+END
+classxmlserialisationinfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/1768/client/trunk/azureus2/src/org/gudy/azureus2/core3/xml/schemas/classxmlserialisationinfo.xsd
+END
+torrent.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/1134/client/trunk/azureus2/src/org/gudy/azureus2/core3/xml/schemas/torrent.xsd
+END

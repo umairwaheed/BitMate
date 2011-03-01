@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/24956/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl
+END
+DiskManagerWriteRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/9384/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DiskManagerWriteRequestImpl.java
+END
+DiskManagerRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/9384/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DiskManagerRequestImpl.java
+END
+DMWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/12455/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DMWriterImpl.java
+END
+DMReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15654/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DMReaderImpl.java
+END
+DMCheckerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/24956/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DMCheckerImpl.java
+END
+DiskManagerReadRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/12727/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DiskManagerReadRequestImpl.java
+END
+DiskManagerCheckRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/24946/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/impl/access/impl/DiskManagerCheckRequestImpl.java
+END

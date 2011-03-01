@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc
+END
+MiscObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/MiscObjectIdentifiers.java
+END
+VerisignCzagExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/VerisignCzagExtension.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/package.html
+END
+NetscapeRevocationURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/NetscapeRevocationURL.java
+END
+CAST5CBCParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/CAST5CBCParameters.java
+END
+NetscapeCertType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/NetscapeCertType.java
+END
+IDEACBCPar.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/misc/IDEACBCPar.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/25881/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins
+END
+UISWTInputReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13362/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTInputReceiver.java
+END
+UISWTViewEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTViewEventListener.java
+END
+UISWTGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTGraphic.java
+END
+UISWTAWTPluginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTAWTPluginView.java
+END
+UISWTViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/9617/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTViewEvent.java
+END
+UISWTStatusEntryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/10461/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTStatusEntryListener.java
+END
+UISWTConfigSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13068/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTConfigSection.java
+END
+PluginUISWTSkinObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15922/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/PluginUISWTSkinObject.java
+END
+UISWTStatusEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13428/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTStatusEntry.java
+END
+UISWTPluginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/7122/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTPluginView.java
+END
+UISWTParameterContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/13342/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTParameterContext.java
+END
+UISWTInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15436/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTInstance.java
+END
+UISWTView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25881/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/plugins/UISWTView.java
+END

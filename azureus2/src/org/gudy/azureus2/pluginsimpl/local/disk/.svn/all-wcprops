@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/25999/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/disk
+END
+DiskManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25134/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/disk/DiskManagerImpl.java
+END
+DiskManagerFileInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/25122/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/disk/DiskManagerFileInfoImpl.java
+END
+DiskManagerChannelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25999/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/disk/DiskManagerChannelImpl.java
+END

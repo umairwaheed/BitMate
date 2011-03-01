@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/15703/client/trunk/azureus2/src/com/aelitis/azureus/launcher
+END
+Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/15703/client/trunk/azureus2/src/com/aelitis/azureus/launcher/Launcher.java
+END
+ClassLoaderWitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/12358/client/trunk/azureus2/src/com/aelitis/azureus/launcher/ClassLoaderWitness.java
+END
+MainExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/12358/client/trunk/azureus2/src/com/aelitis/azureus/launcher/MainExecutor.java
+END
+LauncherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/12358/client/trunk/azureus2/src/com/aelitis/azureus/launcher/LauncherTest.java
+END

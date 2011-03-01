@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/26041/client/trunk/azureus3/src/com/aelitis/azureus/util
+END
+DLReferals.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/19634/client/trunk/azureus3/src/com/aelitis/azureus/util/DLReferals.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/19643/client/trunk/azureus3/src/com/aelitis/azureus/util/Constants.java
+END
+DataSourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25313/client/trunk/azureus3/src/com/aelitis/azureus/util/DataSourceUtils.java
+END
+ConstantsV3.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/19634/client/trunk/azureus3/src/com/aelitis/azureus/util/ConstantsV3.java
+END
+DownloadUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/20112/client/trunk/azureus3/src/com/aelitis/azureus/util/DownloadUtils.java
+END
+UrlFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/20493/client/trunk/azureus3/src/com/aelitis/azureus/util/UrlFilter.java
+END
+ExternalStimulusHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/17669/client/trunk/azureus3/src/com/aelitis/azureus/util/ExternalStimulusHandler.java
+END
+LocalResourceHTTPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/16294/client/trunk/azureus3/src/com/aelitis/azureus/util/LocalResourceHTTPServer.java
+END
+NavigationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/20175/client/trunk/azureus3/src/com/aelitis/azureus/util/NavigationHelper.java
+END
+PlayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/26041/client/trunk/azureus3/src/com/aelitis/azureus/util/PlayUtils.java
+END
+StringCompareUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/17763/client/trunk/azureus3/src/com/aelitis/azureus/util/StringCompareUtils.java
+END
+ContentNetworkUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/19634/client/trunk/azureus3/src/com/aelitis/azureus/util/ContentNetworkUtils.java
+END
+ConstantsVuze.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/20173/client/trunk/azureus3/src/com/aelitis/azureus/util/ConstantsVuze.java
+END
+ExternalStimulusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/16891/client/trunk/azureus3/src/com/aelitis/azureus/util/ExternalStimulusListener.java
+END
+ImportExportUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/20279/client/trunk/azureus3/src/com/aelitis/azureus/util/ImportExportUtils.java
+END
+InitialisationFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/26040/client/trunk/azureus3/src/com/aelitis/azureus/util/InitialisationFunctions.java
+END

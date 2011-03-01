@@ -1,0 +1,49 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/gudy/azureus2/ui
+http://svn.vuze.com/public
+
+
+
+2010-12-09T23:45:28.489507Z
+26137
+pgardner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+common
+dir
+
+icons
+dir
+
+splash
+dir
+
+swing
+dir
+
+swt
+dir
+
+systray
+dir
+
+webplugin
+dir
+

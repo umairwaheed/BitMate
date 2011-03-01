@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25086/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin
+END
+DefaultRankCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/15177/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/DefaultRankCalculator.java
+END
+SeedingRankColumnListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/!svn/ver/15043/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/SeedingRankColumnListener.java
+END
+StartStopRulesDefaultPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/public/!svn/ver/25086/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/StartStopRulesDefaultPlugin.java
+END
+StartStopRulesFPListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/12340/client/trunk/azureus2/src/com/aelitis/azureus/plugins/startstoprules/defaultplugin/StartStopRulesFPListener.java
+END

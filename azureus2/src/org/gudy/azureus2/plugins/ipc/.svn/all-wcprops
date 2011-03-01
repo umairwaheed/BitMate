@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/14616/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ipc
+END
+IPCInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/14616/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ipc/IPCInterface.java
+END
+IPCException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ipc/IPCException.java
+END

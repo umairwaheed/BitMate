@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14887/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler
+END
+DHTUDPPacketHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPPacketHandlerException.java
+END
+DHTUDPPacketHandlerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPPacketHandlerStats.java
+END
+DHTUDPRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPRequestHandler.java
+END
+DHTUDPPacketHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/public/!svn/ver/10303/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPPacketHandlerFactory.java
+END
+DHTUDPPacketReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPPacketReceiver.java
+END
+DHTUDPPacketNetworkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/public/!svn/ver/14887/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPPacketNetworkHandler.java
+END
+DHTUDPPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/public/!svn/ver/13629/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/transport/udp/impl/packethandler/DHTUDPPacketHandler.java
+END

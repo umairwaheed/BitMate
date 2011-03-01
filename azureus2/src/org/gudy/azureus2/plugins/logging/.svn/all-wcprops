@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/24523/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13871/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/Logger.java
+END
+LoggerAlertListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/LoggerAlertListener.java
+END
+LogAlertListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13871/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/LogAlertListener.java
+END
+LogAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/13871/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/LogAlert.java
+END
+LoggerChannelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/2079/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/LoggerChannelListener.java
+END
+FileLoggerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8576/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/FileLoggerAdapter.java
+END
+LoggerChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/24523/client/trunk/azureus2/src/org/gudy/azureus2/plugins/logging/LoggerChannel.java
+END

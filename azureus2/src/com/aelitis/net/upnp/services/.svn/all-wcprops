@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/15746/client/trunk/azureus2/src/com/aelitis/net/upnp/services
+END
+UPnPWANIPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPWANIPConnection.java
+END
+UPnPOfflineDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15746/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPOfflineDownloader.java
+END
+UPnPWANCommonInterfaceConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPWANCommonInterfaceConfig.java
+END
+UPnPWANConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8895/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPWANConnectionListener.java
+END
+UPnPWANConnectionPortMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPWANConnectionPortMapping.java
+END
+UPnPWANPPPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPWANPPPConnection.java
+END
+UPnPSpecificService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPSpecificService.java
+END
+UPnPWANConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/14736/client/trunk/azureus2/src/com/aelitis/net/upnp/services/UPnPWANConnection.java
+END

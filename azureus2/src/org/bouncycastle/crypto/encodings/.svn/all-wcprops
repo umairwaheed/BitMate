@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/encodings
+END
+ISO9796d1Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/encodings/ISO9796d1Encoding.java
+END
+OAEPEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/encodings/OAEPEncoding.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/encodings/package.html
+END
+PKCS1Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/encodings/PKCS1Encoding.java
+END

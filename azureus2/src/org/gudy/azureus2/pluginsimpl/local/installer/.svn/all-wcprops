@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25541/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/installer
+END
+StandardPluginImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/13826/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/installer/StandardPluginImpl.java
+END
+FilePluginInstallerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/14971/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/installer/FilePluginInstallerImpl.java
+END
+InstallablePluginImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/14876/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/installer/InstallablePluginImpl.java
+END
+PluginInstallerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25541/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/installer/PluginInstallerImpl.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13966/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/installer/Test.java
+END

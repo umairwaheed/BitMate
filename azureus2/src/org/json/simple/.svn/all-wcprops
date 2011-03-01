@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/LICENSE.txt
+END
+JSONValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/JSONValue.java
+END
+JSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/JSONObject.java
+END
+AUTHORS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/AUTHORS.txt
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/Test.java
+END
+JSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/JSONArray.java
+END
+ItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/25114/client/trunk/azureus2/src/org/json/simple/ItemList.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp
+END
+UPnPActionArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPActionArgument.java
+END
+UPnPStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPStateVariable.java
+END
+UPnPFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPFactory.java
+END
+UPnPRootDeviceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPRootDeviceListener.java
+END
+UPnPSSDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/15219/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPSSDP.java
+END
+UPnPSSDPAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPSSDPAdapter.java
+END
+UPnPActionInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/8816/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPActionInvocation.java
+END
+UPnP.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnP.java
+END
+UPnPSSDPListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/8803/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPSSDPListener.java
+END
+UPnPLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPLogListener.java
+END
+UPnPService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/15881/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPService.java
+END
+UPnPRootDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/15223/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPRootDevice.java
+END
+UPnPDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/14741/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPDevice.java
+END
+UPnPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPAction.java
+END
+UPnPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPException.java
+END
+UPnPAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPAdapter.java
+END
+UPnPListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/8895/client/trunk/azureus2/src/com/aelitis/net/upnp/UPnPListener.java
+END

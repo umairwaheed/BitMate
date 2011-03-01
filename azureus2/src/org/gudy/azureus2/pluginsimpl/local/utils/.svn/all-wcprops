@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/26142/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils
+END
+LocaleUtilitiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/13534/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/LocaleUtilitiesImpl.java
+END
+ShortCutsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/ShortCutsImpl.java
+END
+LocaleDecoderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/4505/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/LocaleDecoderImpl.java
+END
+MonitorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/MonitorImpl.java
+END
+UtilitiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/25768/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/UtilitiesImpl.java
+END
+FormattersImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/13476/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/FormattersImpl.java
+END
+UTTimerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/14643/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/UTTimerImpl.java
+END
+SemaphoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/9610/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/SemaphoreImpl.java
+END
+PooledByteBufferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/14782/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/utils/PooledByteBufferImpl.java
+END

@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1
+END
+BERSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/BERSequence.java
+END
+BEROctetStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BEROctetStringParser.java
+END
+DERT61String.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERT61String.java
+END
+ASN1SetParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1SetParser.java
+END
+ASN1OctetString.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1OctetString.java
+END
+BEROctetStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BEROctetStringGenerator.java
+END
+ASN1TaggedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1TaggedObject.java
+END
+ASN1Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Generator.java
+END
+DERObjectIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERObjectIdentifier.java
+END
+ASN1EncodableVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1EncodableVector.java
+END
+ASN1InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1InputStream.java
+END
+ASN1Encodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Encodable.java
+END
+DERGeneralizedTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERGeneralizedTime.java
+END
+ASN1StreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1StreamParser.java
+END
+BERSetParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERSetParser.java
+END
+DEROutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DEROutputStream.java
+END
+DEREnumerated.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DEREnumerated.java
+END
+DEROctetString.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/DEROctetString.java
+END
+BERSequenceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERSequenceParser.java
+END
+ASN1Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Set.java
+END
+DERUniversalString.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERUniversalString.java
+END
+DERGeneralString.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERGeneralString.java
+END
+BERConstructedSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERConstructedSequence.java
+END
+DERConstructedSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/DERConstructedSequence.java
+END
+BERGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERGenerator.java
+END
+DERGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERGenerator.java
+END
+DERString.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/DERString.java
+END
+DERUnknownTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERUnknownTag.java
+END
+ASN1TaggedObjectParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1TaggedObjectParser.java
+END
+DERIA5String.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERIA5String.java
+END
+DEREncodableVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DEREncodableVector.java
+END
+BERInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERInputStream.java
+END
+BERTaggedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERTaggedObject.java
+END
+ConstructedOctetStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ConstructedOctetStream.java
+END
+DERInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERInputStream.java
+END
+DEREncodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/DEREncodable.java
+END
+DERNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERNull.java
+END
+DERBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERBoolean.java
+END
+ASN1OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1OutputStream.java
+END
+ASN1Choice.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Choice.java
+END
+BERSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERSet.java
+END
+DERSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERSequence.java
+END
+DERSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERSet.java
+END
+DERObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERObject.java
+END
+LimitedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/LimitedInputStream.java
+END
+IndefiniteLengthInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/IndefiniteLengthInputStream.java
+END
+BERSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERSequenceGenerator.java
+END
+DERSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERSequenceGenerator.java
+END
+DERConstructedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERConstructedSet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/package.html
+END
+ASN1Null.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Null.java
+END
+BERTaggedObjectParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERTaggedObjectParser.java
+END
+ASN1Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Sequence.java
+END
+ASN1Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1Object.java
+END
+DefiniteLengthInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DefiniteLengthInputStream.java
+END
+DERVisibleString.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERVisibleString.java
+END
+BEROutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/BEROutputStream.java
+END
+DERBitString.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERBitString.java
+END
+DERNumericString.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERNumericString.java
+END
+DERInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERInteger.java
+END
+OIDTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/OIDTokenizer.java
+END
+ASN1OctetStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1OctetStringParser.java
+END
+DERTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERTags.java
+END
+DERPrintableString.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERPrintableString.java
+END
+DERBMPString.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERBMPString.java
+END
+DERUTCTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERUTCTime.java
+END
+DERTaggedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERTaggedObject.java
+END
+BERConstructedOctetString.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERConstructedOctetString.java
+END
+BERNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/BERNull.java
+END
+ASN1SequenceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1SequenceParser.java
+END
+DERUTF8String.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERUTF8String.java
+END
+ASN1ObjectParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/ASN1ObjectParser.java
+END
+DERApplicationSpecific.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/DERApplicationSpecific.java
+END

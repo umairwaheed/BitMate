@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/exporttorrent/wizard
+END
+ExportTorrentWizardOutputPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/7835/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/exporttorrent/wizard/ExportTorrentWizardOutputPanel.java
+END
+ExportTorrentWizardFinishPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/736/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/exporttorrent/wizard/ExportTorrentWizardFinishPanel.java
+END
+ExportTorrentWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/exporttorrent/wizard/ExportTorrentWizard.java
+END
+ExportTorrentWizardInputPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/7835/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/exporttorrent/wizard/ExportTorrentWizardInputPanel.java
+END

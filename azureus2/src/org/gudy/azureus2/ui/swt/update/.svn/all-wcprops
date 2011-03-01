@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25823/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update
+END
+UpdateAutoDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/11886/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/UpdateAutoDownloader.java
+END
+SimpleInstallUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25604/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/SimpleInstallUI.java
+END
+SilentInstallUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15934/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/SilentInstallUI.java
+END
+UpdateWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15519/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/UpdateWindow.java
+END
+FullUpdateWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/25823/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/FullUpdateWindow.java
+END
+UpdateProgressWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/13132/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/UpdateProgressWindow.java
+END
+UpdateMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/24992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/update/UpdateMonitor.java
+END

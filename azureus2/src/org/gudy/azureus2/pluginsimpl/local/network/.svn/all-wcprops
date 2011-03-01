@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/25856/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network
+END
+IncomingMessageQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25137/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/IncomingMessageQueueImpl.java
+END
+RawMessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/12696/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/RawMessageAdapter.java
+END
+ConnectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25856/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/ConnectionManagerImpl.java
+END
+ConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25590/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/ConnectionImpl.java
+END
+TransportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/13505/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/TransportImpl.java
+END
+OutgoingMessageQueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/24717/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/OutgoingMessageQueueImpl.java
+END
+TransportCipherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13165/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/TransportCipherImpl.java
+END
+TransportFilterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13166/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/network/TransportFilterImpl.java
+END

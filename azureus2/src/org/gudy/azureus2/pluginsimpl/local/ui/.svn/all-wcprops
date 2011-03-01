@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/26125/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ui
+END
+UIManagerEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/14547/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ui/UIManagerEventAdapter.java
+END
+UIManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25526/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ui/UIManagerImpl.java
+END
+AbstractUIInputReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25700/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ui/AbstractUIInputReceiver.java
+END
+AbstractUIMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/12916/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/ui/AbstractUIMessage.java
+END

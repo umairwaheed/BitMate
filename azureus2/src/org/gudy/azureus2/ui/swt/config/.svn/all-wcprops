@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25907/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config
+END
+LinkParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/LinkParameter.java
+END
+RadioParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/10355/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/RadioParameter.java
+END
+PasswordParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/10355/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/PasswordParameter.java
+END
+FloatParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/FloatParameter.java
+END
+UISWTParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/13272/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/UISWTParameter.java
+END
+FileParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/9971/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/FileParameter.java
+END
+ParameterChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/9926/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ParameterChangeListener.java
+END
+IpFilterEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/IpFilterEditor.java
+END
+ExclusiveSelectionActionPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/1732/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ExclusiveSelectionActionPerformer.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/15741/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/Parameter.java
+END
+IAdditionalActionPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/641/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/IAdditionalActionPerformer.java
+END
+ConfigParameterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/13616/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ConfigParameterAdapter.java
+END
+ColorParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/12045/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ColorParameter.java
+END
+BooleanParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/13616/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/BooleanParameter.java
+END
+GenericActionPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/3537/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/GenericActionPerformer.java
+END
+IParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3811/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/IParameter.java
+END
+DirectoryParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/DirectoryParameter.java
+END
+ChangeSelectionActionPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/6503/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ChangeSelectionActionPerformer.java
+END
+IntListParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/10355/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/IntListParameter.java
+END
+InfoParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/14690/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/InfoParameter.java
+END
+StringListParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15391/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/StringListParameter.java
+END
+IntParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13616/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/IntParameter.java
+END
+StringParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15391/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/StringParameter.java
+END
+DualChangeSelectionActionPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/1674/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/DualChangeSelectionActionPerformer.java
+END
+ButtonParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/12044/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ButtonParameter.java
+END
+ParameterChangeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/9926/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/config/ParameterChangeAdapter.java
+END

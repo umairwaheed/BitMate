@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25876/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils
+END
+BTPeerIDByteDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25876/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/BTPeerIDByteDecoder.java
+END
+OutgoingBTPieceMessageHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/10433/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/OutgoingBTPieceMessageHandlerAdapter.java
+END
+OutgoingBTHaveMessageAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/12696/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/OutgoingBTHaveMessageAggregator.java
+END
+ClientIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/24865/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/ClientIdentifier.java
+END
+BTPeerIDByteDecoderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25876/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/BTPeerIDByteDecoderUtils.java
+END
+AZPeerIdentityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/AZPeerIdentityManager.java
+END
+PeerClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/15731/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/PeerClassifier.java
+END
+BTPeerIDByteDecoderDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/25876/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/BTPeerIDByteDecoderDefinitions.java
+END
+PeerMessageLimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/PeerMessageLimiter.java
+END
+OutgoingBTPieceMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/15713/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/utils/OutgoingBTPieceMessageHandler.java
+END

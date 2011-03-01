@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/14396/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/rss
+END
+RSSFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13935/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/rss/RSSFeed.java
+END
+RSSItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/14396/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/rss/RSSItem.java
+END
+RSSChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/utils/xml/rss/RSSChannel.java
+END

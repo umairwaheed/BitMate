@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/25935/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/router/impl
+END
+DHTRouterNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/8858/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/router/impl/DHTRouterNodeImpl.java
+END
+DHTRouterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25935/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/router/impl/DHTRouterImpl.java
+END
+DHTRouterContactImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14025/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/router/impl/DHTRouterContactImpl.java
+END
+DHTRouterStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/router/impl/DHTRouterStatsImpl.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/14476/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/router/impl/Test.java
+END

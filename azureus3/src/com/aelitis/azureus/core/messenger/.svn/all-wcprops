@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/26065/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger
+END
+PlatformMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/25330/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/PlatformMessenger.java
+END
+PlatformMessengerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/17433/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/PlatformMessengerException.java
+END
+PlatformMessengerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/16490/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/PlatformMessengerListener.java
+END
+PlatformMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/20173/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/PlatformMessage.java
+END
+PlatformAuthorizedSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/19525/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/PlatformAuthorizedSender.java
+END
+ClientMessageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/20175/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/ClientMessageContext.java
+END
+ClientMessageContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/20175/client/trunk/azureus3/src/com/aelitis/azureus/core/messenger/ClientMessageContextImpl.java
+END

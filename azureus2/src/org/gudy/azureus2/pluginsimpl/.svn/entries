@@ -1,0 +1,71 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl
+http://svn.vuze.com/public
+
+
+
+2010-12-14T00:04:49.327295Z
+26142
+pgardner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+PluginUtils.java
+file
+
+
+
+
+2010-12-17T13:08:32.000000Z
+90b7f42d8f0f2bb8617cb819b7640f60
+2006-02-10T03:43:24.000000Z
+8333
+tuxpaper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1447
+
+local
+dir
+
+remote
+dir
+
+update
+dir
+

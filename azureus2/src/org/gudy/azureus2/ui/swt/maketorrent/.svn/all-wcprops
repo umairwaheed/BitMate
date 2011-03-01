@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/15686/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent
+END
+SingleFilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/11176/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/SingleFilePanel.java
+END
+WebSeedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/11853/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/WebSeedPanel.java
+END
+WebSeedsEditorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/11853/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/WebSeedsEditorListener.java
+END
+MultiTrackerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15686/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/MultiTrackerEditor.java
+END
+NewTorrentWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/NewTorrentWizard.java
+END
+WebSeedsEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15510/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/WebSeedsEditor.java
+END
+TrackerEditorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14807/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/TrackerEditorListener.java
+END
+DirectoryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/4975/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/DirectoryPanel.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/ProgressPanel.java
+END
+MultiTrackerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/11853/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/MultiTrackerPanel.java
+END
+SavePathPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/11641/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/SavePathPanel.java
+END
+ModePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15411/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/maketorrent/ModePanel.java
+END

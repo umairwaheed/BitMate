@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/25173/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing
+END
+PairingConnectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15853/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingConnectionData.java
+END
+PairingTestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15856/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingTestListener.java
+END
+PairedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15360/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairedService.java
+END
+PairedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25173/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairedNode.java
+END
+PairingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15857/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingTest.java
+END
+PairingManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15809/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingManagerListener.java
+END
+PairingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15360/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingException.java
+END
+PairingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25119/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingManager.java
+END
+PairingManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/15360/client/trunk/azureus2/src/com/aelitis/azureus/core/pairing/PairingManagerFactory.java
+END

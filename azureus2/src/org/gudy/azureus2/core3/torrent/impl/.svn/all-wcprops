@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/!svn/ver/25974/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl
+END
+TOTorrentFileHasherListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/575/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentFileHasherListener.java
+END
+TOTorrentAnnounceURLGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15696/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentAnnounceURLGroupImpl.java
+END
+TOTorrentXMLDeserialiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/13819/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentXMLDeserialiser.java
+END
+TOTorrentXMLSerialiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/13819/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentXMLSerialiser.java
+END
+TOTorrentFileHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentFileHasher.java
+END
+TOTorrentCreatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentCreatorImpl.java
+END
+TOTorrentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25009/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentImpl.java
+END
+TOTorrentFileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25974/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentFileImpl.java
+END
+TOTorrentCreateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/10297/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentCreateImpl.java
+END
+TOTorrentAnnounceURLSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/12868/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentAnnounceURLSetImpl.java
+END
+TOTorrentDeserialiseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25972/client/trunk/azureus2/src/org/gudy/azureus2/core3/torrent/impl/TOTorrentDeserialiseImpl.java
+END

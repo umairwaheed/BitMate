@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 137
+aereg.ncb
+aereg.opt
+aereg.plg
+aereg.suo
+Debug
+Release
+aereg.vcproj.TUXPRO.Azureus.user
+ipch
+aereg.sdf
+aereg.vcproj.AnimeCity.ArronM.user
+
+END

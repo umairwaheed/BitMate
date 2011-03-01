@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/25688/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk
+END
+DiskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25126/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManager.java
+END
+DiskManagerFileInfoListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8826/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerFileInfoListener.java
+END
+DiskManagerCheckRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerCheckRequestListener.java
+END
+DiskManagerReadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/12727/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerReadRequest.java
+END
+DiskManagerFileInfoSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/24969/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerFileInfoSet.java
+END
+DiskManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/6624/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerListener.java
+END
+DiskManagerWriteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/9384/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerWriteRequest.java
+END
+DiskManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15024/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerException.java
+END
+DiskManagerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/9384/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerRequest.java
+END
+DiskManagerPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/10713/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerPiece.java
+END
+DiskManagerReadRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/10433/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerReadRequestListener.java
+END
+DiskManagerFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/24969/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerFileInfo.java
+END
+DiskManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/16091/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerFactory.java
+END
+DiskManagerCheckRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/24946/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerCheckRequest.java
+END
+DiskManagerWriteRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/disk/DiskManagerWriteRequestListener.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/4312/client/trunk/azureus2/src/org/bouncycastle/crypto/digests
+END
+LongDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/LongDigest.java
+END
+MD2Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/MD2Digest.java
+END
+SHA512Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/SHA512Digest.java
+END
+RIPEMD160Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/RIPEMD160Digest.java
+END
+GeneralDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/GeneralDigest.java
+END
+SHA256Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/SHA256Digest.java
+END
+SHA1Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/SHA1Digest.java
+END
+RIPEMD128Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/RIPEMD128Digest.java
+END
+SHA384Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/SHA384Digest.java
+END
+RIPEMD256Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/RIPEMD256Digest.java
+END
+TigerDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/TigerDigest.java
+END
+MD5Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/MD5Digest.java
+END
+RIPEMD320Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/RIPEMD320Digest.java
+END
+MD4Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/crypto/digests/MD4Digest.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25629/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging
+END
+MessageStreamDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/9051/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/MessageStreamDecoder.java
+END
+MessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/MessageException.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/10617/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/Message.java
+END
+MessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/12327/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/MessageManager.java
+END
+MessagingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/11183/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/MessagingUtil.java
+END
+MessageStreamEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/10528/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/MessageStreamEncoder.java
+END
+MessageStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/MessageStreamFactory.java
+END

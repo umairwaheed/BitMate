@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ipchecker
+END
+IpSetterCallBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/939/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ipchecker/IpSetterCallBack.java
+END
+IpCheckerWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ipchecker/IpCheckerWizard.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/4508/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ipchecker/ProgressPanel.java
+END
+ChooseServicePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/10304/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/ipchecker/ChooseServicePanel.java
+END

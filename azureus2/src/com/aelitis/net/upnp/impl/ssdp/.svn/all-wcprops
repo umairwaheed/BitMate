@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/ssdp
+END
+SSDPCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15219/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/ssdp/SSDPCore.java
+END
+SSDPIGDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/26072/client/trunk/azureus2/src/com/aelitis/net/upnp/impl/ssdp/SSDPIGDImpl.java
+END

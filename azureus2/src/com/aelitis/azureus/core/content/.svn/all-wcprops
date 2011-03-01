@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/15076/client/trunk/azureus2/src/com/aelitis/azureus/core/content
+END
+AzureusContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/10160/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContent.java
+END
+AzureusContentDirectoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/10160/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContentDirectoryManager.java
+END
+AzureusContentFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15076/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContentFile.java
+END
+AzureusContentDirectoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/14986/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContentDirectoryListener.java
+END
+AzureusContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/14816/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContentFilter.java
+END
+AzureusContentDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/14823/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContentDownload.java
+END
+AzureusContentDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/14986/client/trunk/azureus2/src/com/aelitis/azureus/core/content/AzureusContentDirectory.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components
+END
+UITextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components/UITextArea.java
+END
+UIPropertyChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components/UIPropertyChangeListener.java
+END
+UIComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components/UIComponent.java
+END
+UITextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components/UITextField.java
+END
+UIProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components/UIProgressBar.java
+END
+UIPropertyChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/components/UIPropertyChangeEvent.java
+END

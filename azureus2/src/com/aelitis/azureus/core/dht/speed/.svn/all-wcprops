@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/11631/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/speed
+END
+DHTSpeedTesterContactListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8716/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/speed/DHTSpeedTesterContactListener.java
+END
+DHTSpeedTesterContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/11631/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/speed/DHTSpeedTesterContact.java
+END
+DHTSpeedTesterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8719/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/speed/DHTSpeedTesterListener.java
+END
+DHTSpeedTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8689/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/speed/DHTSpeedTester.java
+END
+DHTSpeedTesterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8689/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/speed/DHTSpeedTesterFactory.java
+END

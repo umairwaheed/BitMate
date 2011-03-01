@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 52
+*.classpath
+*.project
+*.cvsignore
+plugins
+.settings
+
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 43
+ipch
+Debug
+Release
+aereg.sdf
+aereg.opensdf
+
+END

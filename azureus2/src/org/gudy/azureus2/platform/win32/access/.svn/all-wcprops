@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/26042/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/access
+END
+AEWin32AccessListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11500/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/access/AEWin32AccessListener.java
+END
+AEWin32Access.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/25536/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/access/AEWin32Access.java
+END
+AEWin32Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/9020/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/access/AEWin32Manager.java
+END
+AEWin32AccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/platform/win32/access/AEWin32AccessException.java
+END

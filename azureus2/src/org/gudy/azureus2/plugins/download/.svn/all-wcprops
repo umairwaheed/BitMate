@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/26124/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download
+END
+DownloadAnnounceResultPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/12426/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadAnnounceResultPeer.java
+END
+DownloadAnnounceResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/7440/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadAnnounceResult.java
+END
+DownloadAttributeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12886/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadAttributeListener.java
+END
+Download.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25303/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/Download.java
+END
+DownloadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadException.java
+END
+DownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13524/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadManager.java
+END
+DownloadTrackerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/7475/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadTrackerListener.java
+END
+DownloadRemovalVetoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadRemovalVetoException.java
+END
+DownloadTypeIncomplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/14152/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadTypeIncomplete.java
+END
+DownloadPeerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/3799/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadPeerListener.java
+END
+DownloadPropertyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadPropertyEvent.java
+END
+DownloadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/3416/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadListener.java
+END
+DownloadActivationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/9286/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadActivationEvent.java
+END
+DownloadTypeComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/14152/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadTypeComplete.java
+END
+DownloadManagerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/11096/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadManagerStats.java
+END
+DownloadScrapeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/5736/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadScrapeResult.java
+END
+DownloadManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/3799/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadManagerListener.java
+END
+DownloadCompletionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/13391/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadCompletionListener.java
+END
+DownloadEventNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/13391/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadEventNotifier.java
+END
+DownloadStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/26124/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadStats.java
+END
+DownloadWillBeAddedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/8742/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadWillBeAddedListener.java
+END
+DownloadWillBeRemovedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/1864/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadWillBeRemovedListener.java
+END
+DownloadActivationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/9287/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadActivationListener.java
+END
+DownloadPropertyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/DownloadPropertyListener.java
+END

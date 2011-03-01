@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/12875/client/trunk/azureus2/src/com/aelitis/azureus/launcher/classloading
+END
+PeeringClassloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12358/client/trunk/azureus2/src/com/aelitis/azureus/launcher/classloading/PeeringClassloader.java
+END
+PrimaryClassloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/12875/client/trunk/azureus2/src/com/aelitis/azureus/launcher/classloading/PrimaryClassloader.java
+END
+SecondaryClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/12358/client/trunk/azureus2/src/com/aelitis/azureus/launcher/classloading/SecondaryClassLoader.java
+END

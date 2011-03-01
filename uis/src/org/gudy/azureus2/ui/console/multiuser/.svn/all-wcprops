@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/20804/client/trunk/uis/src/org/gudy/azureus2/ui/console/multiuser
+END
+TestUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/20732/client/trunk/uis/src/org/gudy/azureus2/ui/console/multiuser/TestUserManager.java
+END
+MultiUserConsoleInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/20732/client/trunk/uis/src/org/gudy/azureus2/ui/console/multiuser/MultiUserConsoleInput.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/20776/client/trunk/uis/src/org/gudy/azureus2/ui/console/multiuser/UserManager.java
+END

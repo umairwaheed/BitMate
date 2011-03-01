@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/text
+END
+StringPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/text/StringPattern.java
+END
+StringScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/text/StringScanner.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/text/StringUtil.java
+END
+StringExaminer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/!svn/ver/20622/client/trunk/uis/src/org/pf/text/StringExaminer.java
+END

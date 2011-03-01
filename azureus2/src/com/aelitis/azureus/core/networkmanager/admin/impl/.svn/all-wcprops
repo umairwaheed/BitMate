@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/25907/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl
+END
+NetworkAdminNATUDPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/10039/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminNATUDPRequest.java
+END
+NetworkAdminNATUDPReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/10039/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminNATUDPReply.java
+END
+NetworkAdminHTTPTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/14746/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminHTTPTester.java
+END
+NetworkAdminSpeedTestScheduledTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/public/!svn/ver/11288/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminSpeedTestScheduledTestImpl.java
+END
+NetworkAdminHTTPProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminHTTPProxyImpl.java
+END
+NetworkAdminSpeedTesterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/10872/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminSpeedTesterImpl.java
+END
+NetworkAdminSpeedTestSchedulerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/public/!svn/ver/15140/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminSpeedTestSchedulerImpl.java
+END
+NetworkAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25907/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminImpl.java
+END
+NetworkAdminSocksProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminSocksProxyImpl.java
+END
+NetworkAdminTCPTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/14746/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminTCPTester.java
+END
+NetworkAdminUDPTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/12684/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminUDPTester.java
+END
+NetworkAdminNATUDPCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/13687/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminNATUDPCodecs.java
+END
+NetworkAdminASNImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/11310/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminASNImpl.java
+END
+NetworkAdminProtocolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/25907/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminProtocolImpl.java
+END
+NetworkAdminProtocolTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/10045/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminProtocolTester.java
+END
+NetworkAdminSpeedTesterBTImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/!svn/ver/14992/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminSpeedTesterBTImpl.java
+END
+NetworkAdminNATDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/14746/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminNATDeviceImpl.java
+END
+NetworkAdminASNLookupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/15027/client/trunk/azureus2/src/com/aelitis/azureus/core/networkmanager/admin/impl/NetworkAdminASNLookupImpl.java
+END

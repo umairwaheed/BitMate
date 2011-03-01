@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/13781/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/updater
+END
+UIUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13781/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/updater/UIUpdater.java
+END
+UIUpdatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13781/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/updater/UIUpdatable.java
+END
+UIUpdatableAlways.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/13781/client/trunk/azureus2/src/com/aelitis/azureus/ui/common/updater/UIUpdatableAlways.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/26015/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions
+END
+SubscriptionMDIEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25911/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionMDIEntry.java
+END
+SubscriptionsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25911/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionsView.java
+END
+SubscriptionListWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/20230/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionListWindow.java
+END
+SubscriptionWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25575/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionWizard.java
+END
+SubscriptionManagerUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/26015/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionManagerUI.java
+END
+SubscriptionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/25854/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionView.java
+END
+SubscriptionSelectedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25997/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/subscriptions/SubscriptionSelectedContent.java
+END

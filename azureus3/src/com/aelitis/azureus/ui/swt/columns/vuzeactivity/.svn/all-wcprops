@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/26113/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/columns/vuzeactivity
+END
+ColumnActivityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/19455/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/columns/vuzeactivity/ColumnActivityType.java
+END
+ColumnActivityNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/26113/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/columns/vuzeactivity/ColumnActivityNew.java
+END
+ColumnActivityActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/25313/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/columns/vuzeactivity/ColumnActivityActions.java
+END
+ColumnActivityDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/19549/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/columns/vuzeactivity/ColumnActivityDate.java
+END
+ColumnActivityText.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/20177/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/columns/vuzeactivity/ColumnActivityText.java
+END

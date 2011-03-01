@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/25791/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile
+END
+VuzeFileMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/14508/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile/VuzeFileMerger.java
+END
+VuzeFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13211/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile/VuzeFileProcessor.java
+END
+VuzeFileComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25791/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile/VuzeFileComponent.java
+END
+VuzeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25791/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile/VuzeFile.java
+END
+VuzeFileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25791/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile/VuzeFileImpl.java
+END
+VuzeFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25777/client/trunk/azureus2/src/com/aelitis/azureus/core/vuzefile/VuzeFileHandler.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/26030/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent
+END
+ISelectedVuzeFileContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/14983/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent/ISelectedVuzeFileContent.java
+END
+SelectedContentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/26030/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent/SelectedContentManager.java
+END
+SelectedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25997/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent/SelectedContent.java
+END
+DownloadUrlInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25997/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent/DownloadUrlInfo.java
+END
+ISelectedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/25997/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent/ISelectedContent.java
+END
+SelectedContentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/13864/client/trunk/azureus2/src/com/aelitis/azureus/ui/selectedcontent/SelectedContentListener.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/15501/client/trunk/azureus2/src/com/aelitis/azureus/core/security/impl
+END
+CryptoHandlerECC.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15501/client/trunk/azureus2/src/com/aelitis/azureus/core/security/impl/CryptoHandlerECC.java
+END
+CryptoManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/15495/client/trunk/azureus2/src/com/aelitis/azureus/core/security/impl/CryptoManagerImpl.java
+END
+CryptoSTSEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13775/client/trunk/azureus2/src/com/aelitis/azureus/core/security/impl/CryptoSTSEngineImpl.java
+END

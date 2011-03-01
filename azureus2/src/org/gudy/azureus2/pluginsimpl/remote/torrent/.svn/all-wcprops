@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/12303/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/torrent
+END
+RPTorrentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/10725/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/torrent/RPTorrentManager.java
+END
+RPTorrentDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/4184/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/torrent/RPTorrentDownloader.java
+END
+RPTorrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/12303/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/remote/torrent/RPTorrent.java
+END

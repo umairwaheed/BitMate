@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/25959/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/impl
+END
+ClientMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/9941/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/impl/ClientMessageHandler.java
+END
+NonBlockingReadWriteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/25959/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/impl/NonBlockingReadWriteService.java
+END
+ClientMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/9941/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/impl/ClientMessage.java
+END
+ClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/impl/ClientConnection.java
+END
+AEClientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25856/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/impl/AEClientService.java
+END

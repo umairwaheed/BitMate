@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25735/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging
+END
+LogRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/LogRelation.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13979/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/Logger.java
+END
+LogAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/15806/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/LogAlert.java
+END
+LogEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/10307/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/LogEvent.java
+END
+ILogAlertListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/ILogAlertListener.java
+END
+LogIDs.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/9031/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/LogIDs.java
+END
+ILogEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/ILogEventListener.java
+END
+LogRelationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/10698/client/trunk/azureus2/src/org/gudy/azureus2/core3/logging/LogRelationUtils.java
+END

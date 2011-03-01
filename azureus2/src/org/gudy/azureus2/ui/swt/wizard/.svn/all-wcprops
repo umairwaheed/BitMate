@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/24824/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/wizard
+END
+IWizardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/24771/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/wizard/IWizardPanel.java
+END
+WizardListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/2098/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/wizard/WizardListener.java
+END
+Wizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/24824/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/wizard/Wizard.java
+END
+AbstractWizardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/24771/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/wizard/AbstractWizardPanel.java
+END

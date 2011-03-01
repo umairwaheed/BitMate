@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/24727/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl
+END
+TestPingSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/11631/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/TestPingSourceImpl.java
+END
+SpeedManagerAlgorithmProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/11429/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/SpeedManagerAlgorithmProvider.java
+END
+SpeedManagerPingMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/24727/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/SpeedManagerPingMapperImpl.java
+END
+SpeedManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/24722/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/SpeedManagerImpl.java
+END
+SpeedManagerAlgorithmProviderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/14340/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/SpeedManagerAlgorithmProviderAdapter.java
+END
+TestPingSourceRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/13133/client/trunk/azureus2/src/com/aelitis/azureus/core/speedmanager/impl/TestPingSourceRandom.java
+END

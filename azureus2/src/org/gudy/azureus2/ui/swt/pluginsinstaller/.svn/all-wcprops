@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller
+END
+InstallPluginWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller/InstallPluginWizard.java
+END
+IPWFilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller/IPWFilePanel.java
+END
+IPWInstallModePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller/IPWInstallModePanel.java
+END
+IPWListPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller/IPWListPanel.java
+END
+IPWFinishPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller/IPWFinishPanel.java
+END
+IPWModePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/11455/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/pluginsinstaller/IPWModePanel.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/26017/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui
+END
+UIManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIManagerListener.java
+END
+UIInputValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/12966/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIInputValidator.java
+END
+UIPluginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25881/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIPluginView.java
+END
+UIRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIRuntimeException.java
+END
+UIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIException.java
+END
+UIInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIInstance.java
+END
+UIManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/14052/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIManager.java
+END
+UIInputReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15442/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIInputReceiverListener.java
+END
+Graphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/Graphic.java
+END
+UIManagerEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIManagerEventListener.java
+END
+UIInputReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/24396/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIInputReceiver.java
+END
+UIMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/13295/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIMessage.java
+END
+UIManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/14543/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIManagerEvent.java
+END
+UIInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/ui/UIInstanceFactory.java
+END

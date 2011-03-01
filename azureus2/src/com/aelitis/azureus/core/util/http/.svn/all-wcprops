@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/25052/client/trunk/azureus2/src/com/aelitis/azureus/core/util/http
+END
+HTTPAuthHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25052/client/trunk/azureus2/src/com/aelitis/azureus/core/util/http/HTTPAuthHelper.java
+END
+HTTPAuthHelperListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/14280/client/trunk/azureus2/src/com/aelitis/azureus/core/util/http/HTTPAuthHelperListener.java
+END

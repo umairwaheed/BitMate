@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker
+END
+NameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/NameItem.java
+END
+TypeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15698/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/TypeItem.java
+END
+IntervalItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/15696/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/IntervalItem.java
+END
+LeechersItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/15696/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/LeechersItem.java
+END
+SeedsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/SeedsItem.java
+END
+StatusItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/StatusItem.java
+END
+PeersItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/PeersItem.java
+END
+UpdateInItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/15696/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/tracker/UpdateInItem.java
+END

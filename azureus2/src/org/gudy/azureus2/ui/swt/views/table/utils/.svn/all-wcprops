@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/table/utils
+END
+TableContextMenuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/11015/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/table/utils/TableContextMenuManager.java
+END
+TableColumnCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25223/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/table/utils/TableColumnCreator.java
+END
+TableColumnSWTUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/table/utils/TableColumnSWTUtils.java
+END
+CoreTableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14680/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/table/utils/CoreTableColumn.java
+END
+TableColumnInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/table/utils/TableColumnInfoImpl.java
+END

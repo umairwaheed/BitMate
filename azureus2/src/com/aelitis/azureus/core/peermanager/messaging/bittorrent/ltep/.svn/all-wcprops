@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/25629/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep
+END
+LTMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/12329/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/LTMessage.java
+END
+LTHandshake.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/15327/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/LTHandshake.java
+END
+LTMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/13309/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/LTMessageEncoder.java
+END
+LTDisabledExtensionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/public/!svn/ver/12329/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/LTDisabledExtensionMessage.java
+END
+LTMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/13053/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/LTMessageFactory.java
+END
+LTMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/15634/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/LTMessageDecoder.java
+END
+UTPeerExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/25629/client/trunk/azureus2/src/com/aelitis/azureus/core/peermanager/messaging/bittorrent/ltep/UTPeerExchange.java
+END

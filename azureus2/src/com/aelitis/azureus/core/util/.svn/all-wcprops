@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/25763/client/trunk/azureus2/src/com/aelitis/azureus/core/util
+END
+AEThreadMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/15672/client/trunk/azureus2/src/com/aelitis/azureus/core/util/AEThreadMonitor.java
+END
+Java15Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/15672/client/trunk/azureus2/src/com/aelitis/azureus/core/util/Java15Utils.java
+END
+HTTPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/15231/client/trunk/azureus2/src/com/aelitis/azureus/core/util/HTTPUtils.java
+END
+CopyOnWriteList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/25634/client/trunk/azureus2/src/com/aelitis/azureus/core/util/CopyOnWriteList.java
+END
+GeneralUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/15769/client/trunk/azureus2/src/com/aelitis/azureus/core/util/GeneralUtils.java
+END
+DNSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/15666/client/trunk/azureus2/src/com/aelitis/azureus/core/util/DNSUtils.java
+END
+ByteCountedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/10502/client/trunk/azureus2/src/com/aelitis/azureus/core/util/ByteCountedInputStream.java
+END
+AZ3Functions.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25496/client/trunk/azureus2/src/com/aelitis/azureus/core/util/AZ3Functions.java
+END
+CaseSensitiveFileMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/8739/client/trunk/azureus2/src/com/aelitis/azureus/core/util/CaseSensitiveFileMap.java
+END
+LaunchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/15978/client/trunk/azureus2/src/com/aelitis/azureus/core/util/LaunchManager.java
+END
+AEPriorityMixin.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/25634/client/trunk/azureus2/src/com/aelitis/azureus/core/util/AEPriorityMixin.java
+END
+MultiPartDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15293/client/trunk/azureus2/src/com/aelitis/azureus/core/util/MultiPartDecoder.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/14971/client/trunk/azureus2/src/com/aelitis/azureus/core/util/UUIDGenerator.java
+END
+DeleteFileOnCloseInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/14213/client/trunk/azureus2/src/com/aelitis/azureus/core/util/DeleteFileOnCloseInputStream.java
+END
+CopyOnWriteSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/14684/client/trunk/azureus2/src/com/aelitis/azureus/core/util/CopyOnWriteSet.java
+END
+HashCodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/12285/client/trunk/azureus2/src/com/aelitis/azureus/core/util/HashCodeUtils.java
+END
+NetUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/10096/client/trunk/azureus2/src/com/aelitis/azureus/core/util/NetUtils.java
+END
+CopyOnWriteMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15392/client/trunk/azureus2/src/com/aelitis/azureus/core/util/CopyOnWriteMap.java
+END
+FeatureAvailability.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25763/client/trunk/azureus2/src/com/aelitis/azureus/core/util/FeatureAvailability.java
+END

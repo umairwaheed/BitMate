@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/24847/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl
+END
+CacheFileManagerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/11578/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/CacheFileManagerStatsImpl.java
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/13096/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/CacheEntry.java
+END
+CacheFileManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/24847/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/CacheFileManagerImpl.java
+END
+CacheFileWithoutCacheMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/15279/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/CacheFileWithoutCacheMT.java
+END
+CacheFileWithCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15279/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/CacheFileWithCache.java
+END
+CacheFileWithoutCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/15279/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/CacheFileWithoutCache.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15287/client/trunk/azureus2/src/com/aelitis/azureus/core/diskmanager/cache/impl/Test.java
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/26078/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections
+END
+ConfigSectionInterfaceLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/14950/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceLanguage.java
+END
+ConfigSectionInterfaceColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/24702/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceColor.java
+END
+ConfigSectionInterfaceDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/26077/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceDisplay.java
+END
+ConfigSectionTransferAutoSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/15820/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTransferAutoSpeed.java
+END
+ConfigSectionConnectionEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/15820/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionConnectionEncryption.java
+END
+ConfigSectionConnectionAdvanced.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/public/!svn/ver/15820/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionConnectionAdvanced.java
+END
+ConfigSectionFileTorrents.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/public/!svn/ver/14881/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionFileTorrents.java
+END
+ConfigSectionConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionConnection.java
+END
+ConfigSectionTrackerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/25598/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTrackerClient.java
+END
+ConfigSectionLogging.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15785/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionLogging.java
+END
+ConfigSectionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/26036/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionStats.java
+END
+ConfigSectionInterfaceTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/26078/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceTables.java
+END
+ConfigSectionTrackerServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/26036/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTrackerServer.java
+END
+ConfigSectionTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15001/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTracker.java
+END
+ConfigSectionTMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/12477/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTMP.java
+END
+ConfigSectionInterfacePassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/public/!svn/ver/14904/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfacePassword.java
+END
+ConfigSectionFileMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/14579/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionFileMove.java
+END
+ConfigSectionTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25551/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTransfer.java
+END
+ConfigSectionConnectionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/12477/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionConnectionProxy.java
+END
+ConfigSectionFileTorrentsDecoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/public/!svn/ver/12477/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionFileTorrentsDecoding.java
+END
+ConfigSectionInterfaceAlerts.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/15806/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceAlerts.java
+END
+ConfigSectionInterfaceStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/24631/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceStart.java
+END
+ConfigSectionTransferLAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/15311/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTransferLAN.java
+END
+ConfigSectionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/24706/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionMode.java
+END
+ConfigSectionTransferAutoSpeedSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTransferAutoSpeedSelect.java
+END
+ConfigSectionSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionSecurity.java
+END
+ConfigSectionIPFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/24634/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionIPFilter.java
+END
+ConfigSectionFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25844/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionFile.java
+END
+ConfigSectionInterfaceLegacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/14596/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterfaceLegacy.java
+END
+ConfigSectionPlugins.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/24478/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionPlugins.java
+END
+ConfigSectionTransferAutoSpeedBeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/public/!svn/ver/14662/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionTransferAutoSpeedBeta.java
+END
+ConfigSectionSharing.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15311/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionSharing.java
+END
+ConfigSectionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/25543/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionInterface.java
+END
+ConfigSectionStartShutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/25639/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionStartShutdown.java
+END
+ConfigSectionFilePerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/15311/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/configsections/ConfigSectionFilePerformance.java
+END

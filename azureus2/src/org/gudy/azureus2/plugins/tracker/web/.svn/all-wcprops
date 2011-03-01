@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/15813/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web
+END
+TrackerAuthenticationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/15813/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web/TrackerAuthenticationAdapter.java
+END
+TrackerWebPageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/15057/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web/TrackerWebPageResponse.java
+END
+TrackerWebPageGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/1529/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web/TrackerWebPageGenerator.java
+END
+TrackerWebPageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/15134/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web/TrackerWebPageRequest.java
+END
+TrackerAuthenticationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web/TrackerAuthenticationListener.java
+END
+TrackerWebContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15795/client/trunk/azureus2/src/org/gudy/azureus2/plugins/tracker/web/TrackerWebContext.java
+END

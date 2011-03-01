@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/26108/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow
+END
+Colors.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25359/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/Colors.java
+END
+SelectableSpeedMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/15683/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/SelectableSpeedMenu.java
+END
+PluginsMenuHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/25881/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/PluginsMenuHelper.java
+END
+ClipboardCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13029/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/ClipboardCopy.java
+END
+MenuFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/26108/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/MenuFactory.java
+END
+MainStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25864/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/MainStatusBar.java
+END
+ListenerNeedingCoreRunning.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/ListenerNeedingCoreRunning.java
+END
+TorrentOpener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25866/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/TorrentOpener.java
+END
+IMenuConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25518/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/IMenuConstants.java
+END
+SWTThreadAlreadyInstanciatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/SWTThreadAlreadyInstanciatedException.java
+END
+HSLColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/13684/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/HSLColor.java
+END
+IMainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/12497/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/IMainMenu.java
+END
+DebugMenuHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15179/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/DebugMenuHelper.java
+END
+SystemWarningWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/25911/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/SystemWarningWindow.java
+END
+SWTThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/25699/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/SWTThread.java
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/26108/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/MainMenu.java
+END
+SplashWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/24704/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/SplashWindow.java
+END
+Refreshable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/11795/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/Refreshable.java
+END
+IMainWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15908/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/mainwindow/IMainWindow.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/!svn/ver/25634/client/trunk/azureus2/src/com/aelitis/net/udp/uc/impl
+END
+PRUDPPacketHandlerStatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/9129/client/trunk/azureus2/src/com/aelitis/net/udp/uc/impl/PRUDPPacketHandlerStatsImpl.java
+END
+PRUDPPacketHandlerSocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25569/client/trunk/azureus2/src/com/aelitis/net/udp/uc/impl/PRUDPPacketHandlerSocks.java
+END
+PRUDPPacketHandlerRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/8689/client/trunk/azureus2/src/com/aelitis/net/udp/uc/impl/PRUDPPacketHandlerRequestImpl.java
+END
+PRUDPPacketHandlerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/24890/client/trunk/azureus2/src/com/aelitis/net/udp/uc/impl/PRUDPPacketHandlerFactoryImpl.java
+END
+PRUDPPacketHandlerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25634/client/trunk/azureus2/src/com/aelitis/net/udp/uc/impl/PRUDPPacketHandlerImpl.java
+END

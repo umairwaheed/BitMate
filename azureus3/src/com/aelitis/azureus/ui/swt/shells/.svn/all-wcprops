@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/26110/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/shells
+END
+AuthorizeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/19570/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/shells/AuthorizeWindow.java
+END
+BrowserWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/20209/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/shells/BrowserWindow.java
+END
+RemotePairingWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/20477/client/trunk/azureus3/src/com/aelitis/azureus/ui/swt/shells/RemotePairingWindow.java
+END

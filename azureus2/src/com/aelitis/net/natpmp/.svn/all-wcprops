@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/!svn/ver/15881/client/trunk/azureus2/src/com/aelitis/net/natpmp
+END
+NatPMPDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/9235/client/trunk/azureus2/src/com/aelitis/net/natpmp/NatPMPDevice.java
+END
+NATPMPDeviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/9261/client/trunk/azureus2/src/com/aelitis/net/natpmp/NATPMPDeviceAdapter.java
+END
+NatPMPDeviceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/9099/client/trunk/azureus2/src/com/aelitis/net/natpmp/NatPMPDeviceFactory.java
+END

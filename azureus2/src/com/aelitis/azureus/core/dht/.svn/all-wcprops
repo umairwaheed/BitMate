@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/25935/client/trunk/azureus2/src/com/aelitis/azureus/core/dht
+END
+DHT.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/!svn/ver/15438/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHT.java
+END
+DHTLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTLogger.java
+END
+DHTOperationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15313/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTOperationListener.java
+END
+DHTStorageKeyStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13734/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTStorageKeyStats.java
+END
+DHTFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/8978/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTFactory.java
+END
+DHTOperationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/15313/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTOperationAdapter.java
+END
+DHTStorageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/15298/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTStorageAdapter.java
+END
+DHTStorageKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8935/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTStorageKey.java
+END
+DHTStorageBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/8578/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/DHTStorageBlock.java
+END

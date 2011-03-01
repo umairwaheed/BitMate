@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/!svn/ver/10303/client/trunk/azureus2/src/org/bouncycastle/jce/provider
+END
+X509CertificateObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8754/client/trunk/azureus2/src/org/bouncycastle/jce/provider/X509CertificateObject.java
+END
+JCEECPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JCEECPublicKey.java
+END
+JDKKeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/10303/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKKeyPairGenerator.java
+END
+JDKDSASigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKDSASigner.java
+END
+JDKX509CertificateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKX509CertificateFactory.java
+END
+JDKAlgorithmParameterGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKAlgorithmParameterGenerator.java
+END
+JCEECPrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8713/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JCEECPrivateKey.java
+END
+DHUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/DHUtil.java
+END
+BouncyCastleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/BouncyCastleProvider.java
+END
+JDKDigestSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKDigestSignature.java
+END
+JCERSAPublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JCERSAPublicKey.java
+END
+RSAUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/RSAUtil.java
+END
+ECUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/ECUtil.java
+END
+PKIXPolicyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/PKIXPolicyNode.java
+END
+JDKKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/8754/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKKeyFactory.java
+END
+JDKMessageDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JDKMessageDigest.java
+END
+X509CRLEntryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/X509CRLEntryObject.java
+END
+ElGamalUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/ElGamalUtil.java
+END
+JCEECDHKeyAgreement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8806/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JCEECDHKeyAgreement.java
+END
+JCEIESCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8714/client/trunk/azureus2/src/org/bouncycastle/jce/provider/JCEIESCipher.java
+END
+X509CRLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/X509CRLObject.java
+END
+DSAUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/DSAUtil.java
+END
+PKIXCertPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/4582/client/trunk/azureus2/src/org/bouncycastle/jce/provider/PKIXCertPath.java
+END
+CertStoreCollectionSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/jce/provider/CertStoreCollectionSpi.java
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs
+END
+EncryptedPrivateKeyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/EncryptedPrivateKeyInfo.java
+END
+EncryptedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/10146/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/EncryptedData.java
+END
+PKCS12PBEParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/PKCS12PBEParams.java
+END
+PrivateKeyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/PrivateKeyInfo.java
+END
+EncryptionScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/EncryptionScheme.java
+END
+ContentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/ContentInfo.java
+END
+RC2CBCParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/RC2CBCParameter.java
+END
+SignedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/SignedData.java
+END
+DHParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/DHParameter.java
+END
+CertBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/CertBag.java
+END
+CertificationRequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/CertificationRequestInfo.java
+END
+Pfx.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/Pfx.java
+END
+PKCSObjectIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/PKCSObjectIdentifiers.java
+END
+PBKDF2Params.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/PBKDF2Params.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/package.html
+END
+PBES2Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/PBES2Parameters.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/Attribute.java
+END
+AuthenticatedSafe.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/AuthenticatedSafe.java
+END
+IssuerAndSerialNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/IssuerAndSerialNumber.java
+END
+SafeBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/SafeBag.java
+END
+KeyDerivationFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/KeyDerivationFunc.java
+END
+MacData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/MacData.java
+END
+SignerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/SignerInfo.java
+END
+RSAPrivateKeyStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/13557/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/RSAPrivateKeyStructure.java
+END
+PBES2Algorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/PBES2Algorithms.java
+END
+CertificationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/pkcs/CertificationRequest.java
+END

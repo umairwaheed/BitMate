@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25187/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/db
+END
+DHTDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/15547/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/db/DHTDB.java
+END
+DHTDBFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15340/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/db/DHTDBFactory.java
+END
+DHTDBLookupResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/db/DHTDBLookupResult.java
+END
+DHTDBValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/db/DHTDBValue.java
+END
+DHTDBStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/14137/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/db/DHTDBStats.java
+END

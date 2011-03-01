@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/!svn/ver/25198/client/trunk/azureus2/src/com/aelitis/azureus/core/lws
+END
+LightWeightSeedAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/13819/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LightWeightSeedAdapter.java
+END
+LWSDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/16040/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LWSDownload.java
+END
+LightWeightSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15920/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LightWeightSeed.java
+END
+LightWeightSeedManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15604/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LightWeightSeedManager.java
+END
+LWSPeerManagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25198/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LWSPeerManagerAdapter.java
+END
+LWSDiskManagerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/15677/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LWSDiskManagerState.java
+END
+LWSTorrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/25009/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LWSTorrent.java
+END
+LWSDiskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25126/client/trunk/azureus2/src/com/aelitis/azureus/core/lws/LWSDiskManager.java
+END

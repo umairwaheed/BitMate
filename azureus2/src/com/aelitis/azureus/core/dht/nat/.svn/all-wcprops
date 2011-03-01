@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/25333/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/nat
+END
+DHTNATPuncherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/8977/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/nat/DHTNATPuncherFactory.java
+END
+DHTNATPuncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/9555/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/nat/DHTNATPuncher.java
+END
+DHTNATPuncherAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/9259/client/trunk/azureus2/src/com/aelitis/azureus/core/dht/nat/DHTNATPuncherAdapter.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/13706/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy
+END
+AEProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyFactory.java
+END
+AEProxyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyHandler.java
+END
+AEProxyConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyConnectionListener.java
+END
+AEProxyAddressMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyAddressMapper.java
+END
+AEProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/!svn/ver/9962/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxy.java
+END
+AEProxyConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyConnection.java
+END
+AEProxyState.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyState.java
+END
+AEProxyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/proxy/AEProxyException.java
+END

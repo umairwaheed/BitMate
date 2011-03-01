@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/25989/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl
+END
+StringIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/8333/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/StringIteratorImpl.java
+END
+StringListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/13888/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/StringListImpl.java
+END
+ConfigurationChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25879/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/ConfigurationChecker.java
+END
+ConfigurationParameterNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/public/!svn/ver/13138/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/ConfigurationParameterNotFoundException.java
+END
+ConfigurationDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/25862/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/ConfigurationDefaults.java
+END
+ConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25989/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/ConfigurationManager.java
+END
+TransferSpeedValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/15897/client/trunk/azureus2/src/org/gudy/azureus2/core3/config/impl/TransferSpeedValidator.java
+END

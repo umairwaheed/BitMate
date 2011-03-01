@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files
+END
+NameItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/NameItem.java
+END
+RemainingPiecesItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/RemainingPiecesItem.java
+END
+PercentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/PercentItem.java
+END
+StorageTypeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/StorageTypeItem.java
+END
+PathItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/PathItem.java
+END
+PriorityItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/PriorityItem.java
+END
+ModeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/ModeItem.java
+END
+FileExtensionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/FileExtensionItem.java
+END
+DoneItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/DoneItem.java
+END
+ProgressGraphItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/ProgressGraphItem.java
+END
+SizeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/SizeItem.java
+END
+PieceCountItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/PieceCountItem.java
+END
+FirstPieceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/25262/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/tableitems/files/FirstPieceItem.java
+END

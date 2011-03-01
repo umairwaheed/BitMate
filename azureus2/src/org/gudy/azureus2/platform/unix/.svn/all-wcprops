@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/public/!svn/ver/25788/client/trunk/azureus2/src/org/gudy/azureus2/platform/unix
+END
+PlatformManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/25788/client/trunk/azureus2/src/org/gudy/azureus2/platform/unix/PlatformManagerImpl.java
+END
+startupScript
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/24627/client/trunk/azureus2/src/org/gudy/azureus2/platform/unix/startupScript
+END
+ScriptAfterShutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/12125/client/trunk/azureus2/src/org/gudy/azureus2/platform/unix/ScriptAfterShutdown.java
+END
+PlatformManagerUnixPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/15689/client/trunk/azureus2/src/org/gudy/azureus2/platform/unix/PlatformManagerUnixPlugin.java
+END
+ScriptBeforeStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/15126/client/trunk/azureus2/src/org/gudy/azureus2/platform/unix/ScriptBeforeStartup.java
+END

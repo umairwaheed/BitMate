@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/!svn/ver/26144/client/trunk/azureus3/src/com/aelitis/azureus/core/download
+END
+EnhancedDownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/26144/client/trunk/azureus3/src/com/aelitis/azureus/core/download/EnhancedDownloadManager.java
+END
+StreamManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/26034/client/trunk/azureus3/src/com/aelitis/azureus/core/download/StreamManager.java
+END
+EnhancedDownloadManagerFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/25063/client/trunk/azureus3/src/com/aelitis/azureus/core/download/EnhancedDownloadManagerFile.java
+END
+DiskManagerFileInfoStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/public/!svn/ver/25122/client/trunk/azureus3/src/com/aelitis/azureus/core/download/DiskManagerFileInfoStream.java
+END
+StreamManagerDownloadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25094/client/trunk/azureus3/src/com/aelitis/azureus/core/download/StreamManagerDownloadListener.java
+END
+DownloadManagerEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/26144/client/trunk/azureus3/src/com/aelitis/azureus/core/download/DownloadManagerEnhancer.java
+END
+DiskManagerFileInfoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/25122/client/trunk/azureus3/src/com/aelitis/azureus/core/download/DiskManagerFileInfoFile.java
+END
+StreamManagerDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/25941/client/trunk/azureus3/src/com/aelitis/azureus/core/download/StreamManagerDownload.java
+END

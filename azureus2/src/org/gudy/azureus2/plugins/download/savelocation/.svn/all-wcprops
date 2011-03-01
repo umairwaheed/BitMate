@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/16029/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/savelocation
+END
+SaveLocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/13641/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/savelocation/SaveLocationManager.java
+END
+DefaultSaveLocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/16029/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/savelocation/DefaultSaveLocationManager.java
+END
+SaveLocationChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/13560/client/trunk/azureus2/src/org/gudy/azureus2/plugins/download/savelocation/SaveLocationChange.java
+END

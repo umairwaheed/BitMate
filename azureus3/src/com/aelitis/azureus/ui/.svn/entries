@@ -1,0 +1,40 @@
+10
+
+dir
+26147
+http://svn.vuze.com/public/client/trunk/azureus3/src/com/aelitis/azureus/ui
+http://svn.vuze.com/public
+
+
+
+2010-12-08T23:46:57.069367Z
+26135
+amogge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c1b7af-1477-405b-86ee-8aefd1fc4dd2
+
+images
+dir
+
+selectedcontent
+dir
+
+skin
+dir
+
+swt
+dir
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing
+END
+ShareResourceDirImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/8848/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareResourceDirImpl.java
+END
+ShareManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareManagerImpl.java
+END
+ShareResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareResourceImpl.java
+END
+ShareResourceDirContentsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareResourceDirContentsImpl.java
+END
+ShareResourceFileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/8848/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareResourceFileImpl.java
+END
+ShareItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/4505/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareItemImpl.java
+END
+ShareConfigImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/5266/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareConfigImpl.java
+END
+ShareResourceFileOrDirImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/public/!svn/ver/15557/client/trunk/azureus2/src/org/gudy/azureus2/pluginsimpl/local/sharing/ShareResourceFileOrDirImpl.java
+END

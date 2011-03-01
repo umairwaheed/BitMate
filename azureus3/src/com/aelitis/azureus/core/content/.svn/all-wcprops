@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/25821/client/trunk/azureus3/src/com/aelitis/azureus/core/content
+END
+RelatedContentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/25201/client/trunk/azureus3/src/com/aelitis/azureus/core/content/RelatedContentManager.java
+END
+RelatedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25821/client/trunk/azureus3/src/com/aelitis/azureus/core/content/RelatedContent.java
+END
+RelatedContentLookupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/20018/client/trunk/azureus3/src/com/aelitis/azureus/core/content/RelatedContentLookupListener.java
+END
+ContentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/19987/client/trunk/azureus3/src/com/aelitis/azureus/core/content/ContentException.java
+END
+AzureusPlatformContentDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/19969/client/trunk/azureus3/src/com/aelitis/azureus/core/content/AzureusPlatformContentDirectory.java
+END
+RelatedContentManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/public/!svn/ver/20018/client/trunk/azureus3/src/com/aelitis/azureus/core/content/RelatedContentManagerListener.java
+END

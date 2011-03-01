@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/public/!svn/ver/26072/client/trunk/azureus3/src/com/aelitis/azureus/core/devices
+END
+DeviceTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/25927/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceTemplate.java
+END
+DeviceManagerDiscoveryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/25927/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceManagerDiscoveryListener.java
+END
+DeviceInternetGateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/19586/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceInternetGateway.java
+END
+TranscodeManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/19619/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeManagerListener.java
+END
+DeviceManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/20086/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceManagerListener.java
+END
+DeviceOfflineDownloaderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/public/!svn/ver/20103/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceOfflineDownloaderManager.java
+END
+DeviceContentDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/19586/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceContentDirectory.java
+END
+DeviceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/20110/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceListener.java
+END
+TranscodeProviderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/public/!svn/ver/19811/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeProviderAdapter.java
+END
+TranscodeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/24435/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeJob.java
+END
+TranscodeQueueActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/20525/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeQueueActionListener.java
+END
+TranscodeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/20402/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeProvider.java
+END
+TranscodeProviderAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/20444/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeProviderAnalysis.java
+END
+TranscodeTargetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/19667/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeTargetListener.java
+END
+TranscodeActionVetoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/public/!svn/ver/20525/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeActionVetoException.java
+END
+TranscodeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/19622/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeManager.java
+END
+DeviceManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/19611/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceManagerException.java
+END
+TranscodeProviderJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/19628/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeProviderJob.java
+END
+DeviceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25927/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceManager.java
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/public/!svn/ver/25926/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/Device.java
+END
+DeviceOfflineDownloaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/20104/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceOfflineDownloaderListener.java
+END
+TranscodeProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/25251/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeProfile.java
+END
+TranscodeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25703/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeFile.java
+END
+TranscodeQueueListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/public/!svn/ver/19622/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeQueueListener.java
+END
+DeviceMediaRendererTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/public/!svn/ver/20006/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceMediaRendererTemplate.java
+END
+TranscodeTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/24372/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeTarget.java
+END
+TranscodeAnalysisListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/public/!svn/ver/20444/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeAnalysisListener.java
+END
+DeviceOfflineDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/public/!svn/ver/20298/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceOfflineDownloader.java
+END
+TranscodeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/20525/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeQueue.java
+END
+TranscodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/19638/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/TranscodeException.java
+END
+DeviceOfflineDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/public/!svn/ver/20107/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceOfflineDownload.java
+END
+DeviceManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/19894/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceManagerFactory.java
+END
+DeviceSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/19608/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceSearchListener.java
+END
+DeviceMediaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/20529/client/trunk/azureus3/src/com/aelitis/azureus/core/devices/DeviceMediaRenderer.java
+END

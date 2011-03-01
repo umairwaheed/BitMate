@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/!svn/ver/26137/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views
+END
+IView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/11795/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/IView.java
+END
+ConfigShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/14992/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/ConfigShell.java
+END
+GeneralView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/25496/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/GeneralView.java
+END
+IViewAlwaysInitialize.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/16109/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/IViewAlwaysInitialize.java
+END
+AbstractIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/12410/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/AbstractIView.java
+END
+ViewUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/15124/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/ViewUtils.java
+END
+PiecesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/25543/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/PiecesView.java
+END
+ConfigView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/26074/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/ConfigView.java
+END
+ScrapeInfoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/26131/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/ScrapeInfoView.java
+END
+MySharesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/25210/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/MySharesView.java
+END
+TorrentInfoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/public/!svn/ver/25427/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/TorrentInfoView.java
+END
+PeerSuperView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/15509/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/PeerSuperView.java
+END
+FilesViewMenuUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/25232/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/FilesViewMenuUtil.java
+END
+TrackerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/26137/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/TrackerView.java
+END
+PeersGraphicView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/public/!svn/ver/15737/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/PeersGraphicView.java
+END
+FilesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25300/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/FilesView.java
+END
+PieceDistributionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/15503/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/PieceDistributionView.java
+END
+PeersView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/public/!svn/ver/25662/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/PeersView.java
+END
+LoggerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/public/!svn/ver/14095/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/LoggerView.java
+END
+MyTorrentsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/26052/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/MyTorrentsView.java
+END
+TorrentOptionsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/public/!svn/ver/15953/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/TorrentOptionsView.java
+END
+ManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/public/!svn/ver/26070/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/ManagerView.java
+END
+MyTorrentsSuperView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/public/!svn/ver/25965/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/MyTorrentsSuperView.java
+END
+IViewExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/9368/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/IViewExtension.java
+END
+MyTrackerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/25210/client/trunk/azureus2/src/org/gudy/azureus2/ui/swt/views/MyTrackerView.java
+END

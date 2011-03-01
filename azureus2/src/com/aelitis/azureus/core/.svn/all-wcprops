@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/public/!svn/ver/26146/client/trunk/azureus2/src/com/aelitis/azureus/core
+END
+AzureusCoreOperationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/public/!svn/ver/9477/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreOperationTask.java
+END
+AzureusCoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/9476/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreListener.java
+END
+AzureusCoreOperationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/9477/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreOperationListener.java
+END
+AzureusCoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/public/!svn/ver/14992/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreFactory.java
+END
+AzureusCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/!svn/ver/24967/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCore.java
+END
+AzureusCoreOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/13696/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreOperation.java
+END
+AzureusCoreRunningListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/public/!svn/ver/14992/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreRunningListener.java
+END
+AzureusCoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/public/!svn/ver/13138/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreException.java
+END
+AzureusCoreLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/public/!svn/ver/12795/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreLifecycleListener.java
+END
+AzureusCoreLifecycleAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/12795/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreLifecycleAdapter.java
+END
+AzureusCoreComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/AzureusCoreComponent.java
+END

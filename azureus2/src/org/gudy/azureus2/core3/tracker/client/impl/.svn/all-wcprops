@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/public/!svn/ver/25875/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl
+END
+TRTrackerAnnouncerResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/public/!svn/ver/10565/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerAnnouncerResponseImpl.java
+END
+TRTrackerAnnouncerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/public/!svn/ver/25875/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerAnnouncerImpl.java
+END
+TRTrackerAnnouncerMuxer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/public/!svn/ver/25875/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerAnnouncerMuxer.java
+END
+TRTrackerAnnouncerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/public/!svn/ver/15696/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerAnnouncerHelper.java
+END
+TRTrackerAnnouncerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/public/!svn/ver/15687/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerAnnouncerFactoryImpl.java
+END
+TRTrackerScraperResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerScraperResponseImpl.java
+END
+TRTrackerScraperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/public/!svn/ver/25824/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerScraperImpl.java
+END
+TRTrackerAnnouncerResponsePeerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/public/!svn/ver/25192/client/trunk/azureus2/src/org/gudy/azureus2/core3/tracker/client/impl/TRTrackerAnnouncerResponsePeerImpl.java
+END

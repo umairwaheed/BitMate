@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/util
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/util/package.html
+END
+ASN1Dump.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/util/ASN1Dump.java
+END
+DERDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/util/DERDump.java
+END
+Dump.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/public/!svn/ver/3800/client/trunk/azureus2/src/org/bouncycastle/asn1/util/Dump.java
+END

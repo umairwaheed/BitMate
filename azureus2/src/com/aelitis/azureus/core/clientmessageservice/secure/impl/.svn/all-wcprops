@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/public/!svn/ver/14800/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/secure/impl
+END
+SecureMessageServiceClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/public/!svn/ver/8465/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/secure/impl/SecureMessageServiceClientImpl.java
+END
+SecureMessageServiceClientHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/public/!svn/ver/14800/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/secure/impl/SecureMessageServiceClientHelper.java
+END
+SecureMessageServiceClientMessageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/public/!svn/ver/8333/client/trunk/azureus2/src/com/aelitis/azureus/core/clientmessageservice/secure/impl/SecureMessageServiceClientMessageImpl.java
+END
