@@ -1,6 +1,6 @@
 BitMate implementation:
 
-1. Minimize waisted goodwill:
+1. Minimize wasted goodwill:
 File - PEPeerControlImpl, UnchokerUtill
 Function - updateSimilarPeers, getNextOptimisticPeers
 
